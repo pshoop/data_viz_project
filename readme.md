@@ -1,8 +1,3 @@
-<b>Paul L Shoop</b>
-Booz | Allen | Hamilton
-<b>Data Visualization Wave 6
-Final Project</b>
-
 <b>Summary</b>
 
 The goal of this project was to answer a business question or achieve a real-world objective using exploratory data analysis (EDA) and data visualization. To do this, I first had to find a dataset (or datasets) that would be suitable for EDA. I selected several datasets focused on the craft beer industry. I then crafted three business questions that this data could help me answer.

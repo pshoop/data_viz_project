@@ -1,0 +1,1415 @@
+id,name,address1,address2,city,state,code,country
+1,(512) Brewing Company,"407 Radam, F200",,Austin,Texas,78745,United States
+2,21st Amendment Brewery Cafe,563 Second Street,,San Francisco,California,94107,United States
+3,3 Fonteinen Brouwerij Ambachtelijke Geuzestekerij,Hoogstraat 2A,,Beersel,Vlaams Brabant,,Belgium
+4,Aass Brewery,Ole Steensgt. 10 Postboks 1530,,Drammen,,,Norway
+5,Abbaye de Leffe,Dinant,,Dinant,Namur,,Belgium
+6,Abbaye de Maredsous,"Rue de Maredsous, 11",,Dene,Namur,,Belgium
+7,Abbaye Notre Dame du St Remy,Rue de l'Abbaye 8,,Rochefort,Namur,,Belgium
+8,Abbey Wright Brewing/Valley Inn,204 Valley Street,,Williamsport,Pennsylvania,17702,United States
+9,Aberdeen Brewing,210 Aberdeen Dr.,,Valparaiso,Indiana,,United States
+10,Abita Brewing Company,PO Box 1510,,Abita Springs,Louisiana,70420,United States
+11,Adnams & Co.,IP18 6JW,,Southwold,Suffolk,,United Kingdom
+12,Affligem Brouwerij,,,Opwijk,,,Belgium
+13,Agassiz Brewing,PO Box 42008,,Winnipeg,Manitoba,0,Canada
+14,Aksarben Brewing (BOP),11337 Davenport St.,,Omaha,Nebraska,68130,United States
+15,Aktienbrauerei Kaufbeuren,Hohe Buchleuthe 3,,Kaufbeuren,Bayern,,Germany
+16,Alameda Brewhouse,4765 NE Fremont,,Portland,Oregon,97213,United States
+17,Alaskan Brewing,5429 Shaune Drive,,Juneau,Alaska,99801,United States
+18,Alaus Darykla Kalnapilis,Taikos aleja 1,,Panevys,,,Lithuania
+19,Aldaris,Tvaika iela 44,,Rga,,,Latvia
+20,Ale Asylum,3698 Kinsman Blvd,,Madison,Wisconsin,53704,United States
+21,AleSmith Brewing,9368 Cabot Drive,,San Diego,California,92126,United States
+22,Ali`i Brewing,,,Honolulu,Hawaii,,United States
+23,Allagash Brewing,100 Industrial Way,,Portland,Maine,4103,United States
+25,Allentown Brew Works,814 W Hamilton St,,Allentown,Pennsylvania,18101,United States
+26,Allguer Brauhaus AG Kempten,Beethovenstrae 7,,Kempten,Bayern,,Germany
+27,"Allguer Brauhaus AG Kempten, Brausttte Leuterschach",Schwendener Strae 18,,Marktoberdorf,Bayern,,Germany
+28,Alltech's Lexington Brewing Company,401 Cross Street,,Lexington,Kentucky,40508,United States
+29,Alpine Beer Company,2351 Alpine Boulevard,,Alpine,California,91901,United States
+30,Alpirsbacher Klosterbru,Marktplatz 1,,Alpirsbach,Baden-Wrttemberg,,Germany
+31,Alvinne Picobrouwerij,Oostrozebekestraat 114,,Ingelmunster,West-Vlaanderen,,Belgium
+32,America's Brewing,205 North Broadway,,Aurora,Illinois,60505,United States
+33,American River Brewing,,,Auburn,California,,United States
+34,Amerisports Brew Pub,8201 NE Birmingham Road,,Kansas City,Missouri,64161,United States
+35,Amherst Brewing Company,24 North Pleasant Street,,Amherst,Massachusetts,1002,United States
+36,"Amicas Pizza, Microbrews and More",136 East Second Street,,Salida,Colorado,81201,United States
+37,Amstel Brouwerij,Antwoordnummer 7181,,Amsterdam,,,Netherlands
+38,Anacortes Brewing,320 Commercial Avenue,,Anacortes,Washington,98221,United States
+39,Anchor Brewing,1705 Mariposa Street,,San Francisco,California,94107,United States
+40,Andechser Klosterbrauerei,Bergstrae 2,,Andechs,Bayern,,Germany
+41,Anderson Valley Brewing,17700 Boonville Rd,,Boonville,California,95415,United States
+42,Andrew's Brewing,,,Lincolnville,Maine,4849,United States
+43,Angelic Brewing,,,Madison,Wisconsin,53703,United States
+44,Anheuser-Busch,One Busch Place,,Saint Louis,Missouri,63118,United States
+45,Appalachian Brewing Company,50 N. Cameron St.,,Harrisburg,Pennsylvania,17110,United States
+46,Appleton Brewing,,,Appleton,Wisconsin,,United States
+47,Arcadia Brewing,103 West Michigan Avenue,,Battle Creek,Michigan,49017,United States
+48,Arcobrau Grafliches Brauhaus,Schlossalle 1,,Moos,Baden-Wurttemberg,94554,Germany
+49,Arthur Guinness & Son,St. James's Gate,,Dublin,,,Ireland
+50,Asahi Breweries,23-1 Azumabashi 1-chome,,Tokyo,Kanto,,Japan
+51,Asheville Pizza and Brewing Co.,675 Merrimon Avenue,,Asheville,North Carolina,28804,United States
+52,ateck Pivovar,ikovo nmst 81,,atec,,,Czech Republic
+53,Athenian Brewery,102 Kifissou Avenue,,Athens,,0,Greece
+54,Atlanta Brewing Company,2323 Defoor Hills Rd NW,,Atlanta,Georgia,30318,United States
+55,Atlantic Brewing Company,15 Knox Rd.,,Bar Harbor,Maine,4609,United States
+56,Atwater Block Brewing,237 Joseph Campau Street,,Detroit,Michigan,48207,United States
+57,August Schell Brewing,1860 Schell Road,,New Ulm,Minnesota,56073,United States
+59,Augusta Brewing,5221 Water Street,,Augusta,Missouri,63332,United States
+60,Augustiner-BrÃ¤u MÃ¼nchen,Landsberger Strae 35,,MÃ¼nchen,Bayern,,Germany
+61,Australian Brewing Corporation,229-255 Old Melbourne Road,,Little River,Victoria,3211,Australia
+62,Avery Brewing Company,5763 Arapahoe Avenue,,Boulder,Colorado,80303,United States
+63,Back Road Brewery,310 Perry Street,,LaPorte,Indiana,46350,United States
+64,Backcountry Brewery,720 Main Street,,Frisco,Colorado,80443,United States
+65,Backwater Brewing,1429 West Service Drive,,Winona,Minnesota,55987,United States
+66,Bad Frog Brewery Company,,,Rose City,Michigan,,United States
+67,Ball- und Brauhaus Watzke,KÃ¶tzschenbroder Str. 1,,Dresden,Sachsen,1139,Germany
+68,Ballast Point Brewing,5401 Linda Vista Road #406,,San Diego,California,92110,United States
+69,Baltimore-Washington Beer Works,P.O. Box 9829,,Baltimore,Maryland,21284,United States
+70,Bamberger Mahr's-Bru,Wunderburg 10,,Bamberg,Bayern,,Germany
+71,Bandana Brewery,,,Mankato,Minnesota,,United States
+72,Bar Harbor Brewing Company,8 Mt. Desert Street,,Bar Harbor,Maine,4609,United States
+73,Bard's Tale Beer Company,211 NW Ward Road,,Lee's Summit,Missouri,,United States
+74,Barfer - das kleine Brauhaus,Lautenberg 1,,Ulm,Baden-Wrttemberg,,Germany
+75,Barley Brothers Brewery and Grill,1425 McCulloch Boulevard,,Lake Havasu City,Arizona,86403,United States
+76,Barley Creek Brewing,RR 1 Box 185,,Tannersville,Pennsylvania,18372,United States
+77,Barley Island Brewing,639 Conner Street,,Noblesville,Indiana,46060,United States
+78,Barley John's Brewpub,781 Old Highway 8 SW,,New Brighton,Minnesota,55112,United States
+79,Barley's #2 Smokehouse and Brewpub,1130 Dublin Road,,Columbus,Ohio,43215,United States
+80,Barley's Brewing #1,467 North High Street,,Columbus,Ohio,43215,United States
+81,Barley's Casino & Brewing Company,4500 East Sunset Road #30,,Henderson,Nevada,89014,United States
+82,Baron Brewing Company,1605 S 93rd Building E Unit L,,Seattle,Washington,98108,United States
+83,Barrel House Brewing Co.,544B W. Liberty St.,,Cincinnati,Ohio,45214,United States
+84,Basil T's Brew Pub and Italian Grill,1171 Hooper Avenue,,Toms River,New Jersey,8753,United States
+85,Bass Brewers,137 High Street,,Burton-upon-Trent,Staffordshire,,United Kingdom
+86,Bavaria,,,Barranquilla,,,Colombia
+87,Bavarian Barbarian Brewing Company,429 W. 3rd St,,Williamsport,Pennsylvania,17701,United States
+88,Bayerische Staatsbrauerei Weihenstephan,Alte Akademie 2,,Freising,Bayern,,Germany
+89,Bayern Brewing,1507 Montana Street,,Missoula,Montana,59801,United States
+90,"BBC Brewing Co., LLC",636 East Main Street,,Louisville,Kentucky,40202,United States
+91,Beach Brewing,,,Orlando,Florida,,United States
+92,Beach Chalet Brewery,1000 Great Highway,,San Francisco,California,94121,United States
+93,Beamish & Crawford,South Main Street,,Cork,,,Ireland
+94,Bear Republic Brewery,345 Healdsburg Avenue,,Healdsburg,California,95448,United States
+95,Beck's,,,,,,Germany
+96,Beermann's Beerwerks BrewPub,,,Lincoln,California,,United States
+97,Belfast Bay Brewing Company,100 Searsport Avenue,,Belfast,Maine,4915,United States
+98,Belhaven Brewery,Spott Road,,East Lothian,Scotland,,United Kingdom
+99,Belize Brewing,PO Box 1068,,Belize City,,,Belize
+100,Bell's Brewery Inc.,8938 Krum Ave.,,Galesburg,Michigan,49053,United States
+101,Bellows Brew Crew,,,Watertown,Wisconsin,,United States
+102,Bent River Brewing,1413 Fifth Avenue,,Moline,Illinois,61265,United States
+103,Berliner Kindl Brauerei AG,Werbellinstrasse 50,,Berlin,Berlin,,Germany
+104,Berliner-Kindl-Schultheiss-Brauerei,Indira-Ghandi-Strae 66-69,,Berlin,Berlin,,Germany
+105,Bersaglier,Calle 92 Nï¿½ 101,,San Martin,Buenos Aires,1650,Argentina
+106,Bethlehem Brew Works,569 Main St,,Bethlehem,Pennsylvania,18018,United States
+107,Bibiana Brewing,,,Urbana,Illinois,,United States
+108,Biddy Early Brewery,Inagh,,Ennis,,,Ireland
+109,Bierbrouwerij Bavaria,Burg. van den Heuvelstraat 35,,Lieshout,,0,Netherlands
+110,Bierbrouwerij De Koningshoeven,Eindhovenseweg 3,,Berkel-Enschot,,,Netherlands
+111,Bierbrouwerij St.Christoffel,Metaalweg 10,,Roermond,,,Netherlands
+112,Big Bang Brewery (Closed),650 Fifth Street #403,,San Francisco,California,94107,United States
+113,Big Boss Brewing Company,1249-A Wicker Drive,,Raleigh,North Carolina,27604,United States
+114,Big Buck Brewery,550 South Wisconsin Avenue,,Gaylord,Michigan,49735,United States
+115,Big Buck Brewery and Steakhouse #2,,,Grand Rapids,Michigan,,United States
+116,Big Dog's Brewing Company,4543 North Rancho Road,,Las Vegas,Nevada,89130,United States
+117,Big Hole Brewing,401 East Main Street,,Belgrade,Montana,59714,United States
+118,Big Horn Brewing @ The RAM 2,700 North Milwaukee Avenue,,Wheeling,Illinois,60090,United States
+119,Big Ridge Brewing,15133 Highway 10,,Surrey,British Columbia,0,Canada
+120,Big River Brewing,180 - 14200 Entertainment Boulevard,,Richmond,British Columbia,0,Canada
+121,Big Rock Brewery,5555 76th Avenue SE,,Calgary,Alberta,0,Canada
+122,Big Sky Brewing,5417 Trumpeter Way,,Missoula,Montana,59808,United States
+123,Big Time Brewing,4133 University Way NE,,Seattle,Washington,98105,United States
+124,Bill's Tavern & Brewhouse,188 North Hemlock,,Cannon Beach,Oregon,97110,United States
+125,Binding Brauerei AG,Darmstdter Landstrae 185,,Frankfurt am Main,Hessen,,Germany
+126,Birra Forst,"Via Val Venosta, 8",,Lagundo / Algund,,0,Italy
+127,Birra Moretti,Viale Venezia 9,,Udine,,,Italy
+128,Birrificia Le Baladin,"Piazza V Luglio, 15",,Piozzo,,0,Italy
+129,Birrificio Torrechiara,Strada Pilastro 35,,Torrechiara,,,Italy
+130,Bison Brewing,2598 Telegraph Avenue,,Berkeley,California,94704,United States
+131,Bitburger Brauerei,RÃ¶mermauer 3,,Bitburg,Rheinland-Pfalz,,Germany
+132,"BJ's Pizza, Grill, and Brewery - Jantzen Beach",12105 North Center Avenue,,Portland,Oregon,97217,United States
+133,BJ's Restaurant and Brewery,600 Brea Mall,,Brea,California,,United States
+134,Black Sheep Brewery,Wellgarth,,Ripon,North Yorkshire,,United Kingdom
+135,Black Toad Brewing Company,Chicago IL 60612,,Chicago,Illinois,,United States
+136,Blacksburg Brewing Company,P.O. Box 315,,Blacksburg,Virginia,24063,United States
+137,Blackstone Restaurant & Brewery,1918 West End Avenue,,Nashville,Tennessee,37203,United States
+138,Blicks Brewing,,,Colorado Springs,Colorado,,United States
+139,Blitz-Weinhard Brewing,Portland OR 97209,,Portland,Oregon,,United States
+140,Bloomington Brewing Company,"1795 E 10th St,",,Bloomington,Indiana,47402,United States
+141,BluCreek Brewing Company,2605 South Stoughton Road,,Madison,Wisconsin,53716,United States
+142,Blue Cat Brew Pub,113 18th Street,,Rock Island,Illinois,61201,United States
+143,Blue Corn Caf and Brewery - Albuquerque,,,Albuquerque,New Mexico,,United States
+144,Blue Point Brewing,161 River Avenue,,Patchogue,New York,11772,United States
+145,Blue Ridge Brewing,217 North Main Street,,Greenville,South Carolina,29601,United States
+146,"Bluegrass Brewing Company, Inc.",3929 Shelbyville Rd.,,Louisville,Kentucky,40207,United States
+147,Bobcat Cafe & Brewery,4 Main Street,,Bristol,Vermont,5443,United States
+148,Boddington's Brewery,,,Manchester,Manchester,,United Kingdom
+149,Boiler Room Brewpub,2100 Casino Drive,,Laughlin,Nevada,89029,United States
+150,Bonaventure Brewing Co,404 South Figueroa Street #418,,Los Angeles,California,90071,United States
+151,Bonfire Brewery,,,Northville,Michigan,,United States
+152,Boon Rawd Brewery,999 Samsen Road,,Bangkok,,,Thailand
+153,Bootleggers Steakhouse and Brewery,,,Bakersfield,California,,United States
+154,Borsodi SÃ¶rgyÃ¡r,,,BÃ¶cs,,,Hungary
+155,Boscos Memphis Brewing,,,Germantown,Tennessee,,United States
+156,BOSS Browar Witnica S.A.,Ul. Marii Konopnickiej 1,,Witnica,,,Poland
+157,Boston Beer Company,30 Germania Street,,Boston,Massachusetts,2130,United States
+158,Boston Beer Works,61 Brookline Avenue,,Boston,Massachusetts,2215,United States
+159,Bottom's Up Brewing,402 West Pine Street,,Pinedale,Wyoming,82941,United States
+160,Boulder Beer Company,2880 Wilderness Place,,Boulder,Colorado,80301,United States
+161,Boulevard Brewing Company,2501 Southwest Boulevard,,Kansas City,Missouri,64108,United States
+162,Boundary Bay Brewery and Bistro,1107 Railroad Avenue,,Bellingham,Washington,98227,United States
+163,Brasal-Brasserie Allemande,,,LaSalle,Quebec,,Canada
+164,Brasserie Artisanale de Rulles,Rue Maurice Grevisse 36,,Habay-Rulles,Luxembourg,,Belgium
+165,Brasserie Bnifontaine,"13, rue Pasteur",,Bnifontaine,,,France
+166,Brasserie Clarysse,Krekelput 16-18,,Oudenaarde,Oost-Vlaanderen,,Belgium
+167,Brasserie D'Achouffe,Rue du Village 32,,Houffalize-Achouffe,Luxembourg,,Belgium
+168,Brasserie d'Ecaussinnes,"rue Restaumont, 118",,Ecaussinnes,Hainaut,,Belgium
+169,Brasserie d'Orval,Abbaye de Notre-Dame d'Orval,,Villers-devant-Orval,Luxembourg,,Belgium
+170,Brasserie de Blaugies,"Rue de la Frontire, 435",,Blaugies,Hainaut,,Belgium
+171,Brasserie de Brunehaut,Rue de Panneries 17,,Brunehaut,Hainaut,7623,Belgium
+172,Brasserie de Cazeau,,,,,,Belgium
+173,Brasserie de l'Abbaye de Scourmont (Trappistes),Route de Rond Point 294,,Chimay-Forges,Hainaut,,Belgium
+174,Brasserie De L'Abbaye Des Rocs,Chausse Brunehault 37,,Montignies-sur-Roc,Hainaut,,Belgium
+175,Brasserie de l'Abbaye Val-Dieu,Val Dieu 225,,Aubel,Lige,,Belgium
+176,Brasserie de la Senne,Victor Nonnemansstraat 40a,,Sint-Pieters-Leeuw,Vlaams Brabant,,Belgium
+177,Brasserie De Saint Sylvestre,"121, rue de la Chapelle",,St-Sylvestre-Cappel,,,France
+178,Brasserie De Silenrieux,Rue de Noupr s/n,,Cerfontaine-Silenrieux,Namur,,Belgium
+179,Brasserie de Silly,Rue Ville Basse 141,,Silly,Hainaut,,Belgium
+180,Brasserie de Tahiti,BP 597,,Tahiti,,,French Polynesia
+181,Brasserie de Vervifontaine,Vervierfontaine 100,,Jalhay-Vervifontaine,Lige,,Belgium
+182,Brasserie des Cimes,152 Avenue St Simond,,Aix les Bains,,,France
+183,Brasserie des Franches-Montagnes,Chemin des Buissons 8,,Saignelgier,,,Switzerland
+184,Brasserie des Gants,"rue du Castel, 19",,Irchonwelz,Hainaut,,Belgium
+185,Brasserie des Vosges,680 rue de la Brasserie,,Dommartin les Remiremont,,,France
+186,Brasserie du Benin,BP 896,,Lom,,,Togo
+187,Brasserie du Bocq,Rue de la Brasserie 4,,Purnode,Namur,,Belgium
+188,Brasserie Dubuisson,Chause de Mons 28,,Pipaix,Hainaut,,Belgium
+189,Brasserie Dupont,Rue Basse 5,,Tourpes,Hainaut,,Belgium
+190,Brasserie Duyck,"113, rte Nationale",,Jenlain,,,France
+191,Brasserie Ellezelloise,Rue Guinaumont 75,,Ellezelles,Hainaut,,Belgium
+192,Brasserie Fantme,Rue Pral 8,,Soy,Luxembourg,,Belgium
+193,Brasserie Grain D'Orge,,,Ronchin,,,France
+194,Brasserie La Binchoise,Rue Faubourg St Paul 38,,Binche,Hainaut,,Belgium
+195,Brasserie La Caracole,Cte Marie-Thrse 86,,Falmignoul,Namur,,Belgium
+196,Brasserie La Choulette,16 rue des Ecoles,,Hordain,,,France
+197,Brasserie Lefebvre,Chemin du Croly 52,,Quenast,Brabant Wallon,,Belgium
+198,Brasserie McAuslan,5080 Rue St-Ambroise,,Montreal,Quebec,H4C 2G,Canada
+199,Brasserie Pietra,Route de la Marana,,Furiani,,,France
+200,Brasserie Thiriez,22 rue Wormhout,,Esquelbecq,,,France
+201,Brasserie Val de Sambre,Rue Vandervelde 273,,Goze,Hainaut,,Belgium
+202,Brasserie-Brouwerij Cantillon,Gheudestraat 56,,Anderlecht,Brussel,,Belgium
+203,Brasseries Kronenbourg,68 route d'Oberhausbergen,,Strasbourg,,,France
+204,Brauerei & Gasthof zur Krone,Brenplatz 7,,Tettnang,Baden-Wrttemberg,,Germany
+205,Brauerei Aying Franz Inselkammer KG,Zornedinger Strae 2,,Aying,Bayern,,Germany
+206,Brauerei Beck,Am Deich 18-19,,Bremen,Bremen,,Germany
+207,Brauerei C. & A. Veltins GmbH & Co.,An der Streue,,Meschede,Nordrhein-Westfalen,,Germany
+208,Brauerei Fssla,Obere Knigsstrae 19-21,,Bamberg,Bayern,,Germany
+209,Brauerei Gbr. Maisel KG,Hindenburgstrasse 9,,Bayreuth,,95445,Germany
+210,Brauerei Grieskirchen AG,Stadtplatz 14,,Grieskirchen,,,Austria
+211,Brauerei Gss,Brauhausgasse 1,,Leoben-Gss,,,Austria
+212,Brauerei Herrenhausen,Herrenhuser Strae 83-99,,Hannover,Niedersachsen,,Germany
+213,Brauerei Hrle,Am Hopfengarten 5,,Leutkirch im AllgÃ¤u,Baden-WÃ¼rttemberg,,Germany
+214,Brauerei Hrlimann,Brandschenkestrasse 150,,Zrich,,,Switzerland
+215,Brauerei im Fchschen,Ratinger Strasse 28,,DÃ¼sseldorf,Nordrhein-Westfalen,,Germany
+216,Brauerei Leibinger,Friedhofstrae 20-36,,Ravensburg,Baden-Wrttemberg,,Germany
+217,Brauerei Locher AG,Alte Eggerstandenstrasse 1,,Appenzell,,,Switzerland
+218,Brauerei Reissdorf,Emil-Hoffmann-Strae 4-10,,Kln,Nordrhein-Westfalen,,Germany
+219,Brauerei Schtzengarten,St. Jakobstrasse 37,,Sankt-Gallen,,,Switzerland
+220,Brauerei Schumacher,Oststrae 123,,Dsseldorf,Nordrhein-Westfalen,,Germany
+221,Brauerei Schwelm,Neumarkt 1,,Schwelm,Nordrhein-Westfalen,,Germany
+222,Brauerei Spezial,Obere Knigsstrae 10,,Bamberg,Bayern,,Germany
+223,Brauerei und Altbierkche Pinkus Mller,Kreuzstrae 4-10,,Mnster,Nordrhein-Westfalen,,Germany
+224,Brauerei Wieselburg,,,Wieselburg,,3250,Austria
+225,Brauereigasthof Adler,Ortsstrae 1,,Herbertingen,Baden-Wrttemberg,,Germany
+226,Brauhaus am WaldschlÃ¶sschen,Am Brauhaus 8b,,Dresden,Sachsen,1099,Germany
+227,Brauhaus Brew Hall,111 Main Street,,Lucan,Minnesota,56255,United States
+228,Brauhaus Faust,Hauptstrae 219,,Miltenberg,Bayern,,Germany
+229,Brauhaus Johann Albrecht - Dsseldorf,Niederkasseler Strae 104,,Dsseldorf,Nordrhein-Westfalen,,Germany
+230,Brauhaus Johann Albrecht - Konstanz,Konradigasse 2,,Konstanz,Baden-Wrttemberg,,Germany
+231,Brauhaus Onuma,Onuma,,Onuma,Hokkaido,,Japan
+232,Brauhaus Sion,Unter Taschenmacher 5-7,,Kln,Nordrhein-Westfalen,,Germany
+233,Brauhaus Sternen,Hohenzornstrasse 2,,Frauenfeld,,,Switzerland
+234,Brausttte der Steirerbrau Aktiengesellschaft,Reiningshausstrae 1-7,,Graz,,,Austria
+235,Breckenridge BBQ of Omaha,,,Omaha,Nebraska,,United States
+236,Breckenridge Brewery,471 Kalamath Street,,Denver,Colorado,80204,United States
+238,Brennerei-Distillerie Radermacher,Spitalstrasse 50,,Raeren,Lige,,Belgium
+239,Brew Kettle Taproom & Smokehouse BOP,8377 Pearl Road,,Strongsville,Ohio,44136,United States
+240,Brew Makers,,,Mountain View,California,,United States
+241,BrewDog Ltd,AB43 8UE,,Fraserburgh,,,United Kingdom
+242,Brewer's Art,1106 N. Charles St.,,Baltimore,Maryland,21201,United States
+243,Brewery at Martha's Vineyard,,,Oak Bluffs,Massachusetts,,United States
+244,Brewery Belle-Vue,Delaunoystraat 58/60,,Molenbeek,Brussel,,Belgium
+245,Brewery Budweiser Budvar,,,,Ceske Budejovice,,Czech Republic
+246,Brewery Corsendonk,Steenweg op Mol 118,,Oud-Turnhout,Antwerpen,,Belgium
+247,Brewery Creek Brewing,23 Commerce Street,,Mineral Point,Wisconsin,53565,United States
+248,Brewery De Troch,Langestraat 20,,Ternat,Vlaams Brabant,,Belgium
+249,Brewery Ommegang,656 County Highway 33,,Cooperstown,New York,13326,United States
+250,Brewmasters Restaurant and Brewery South,,,Kenosha,Wisconsin,,United States
+251,Brewpub-on-the-Green,,,Fremont,California,,United States
+252,Breznak,,,,,,Czech Republic
+253,Brick Brewing,1 Old Brewery Lane,,Formosa,Ontario,0,Canada
+254,Bricktown Brewery,299 Main Street,,Dubuque,Iowa,52001,United States
+255,BridgePort Brewing,1313 NW Marshall Street,,Portland,Oregon,97209,United States
+256,Brimstone Brewing,4607 Wedgewood Boulevard,,Frederick,Maryland,20176,United States
+257,Bristol Brewing,1647 South Tejon Street,,Colorado Springs,Colorado,80906,United States
+258,Broad Ripple Brewing,842 East 65th Street,,Indianapolis,Indiana,46220,United States
+259,Brooklyn Brewery,79 North Eleventh Street,,Brooklyn,New York,11211,United States
+260,Broughton Ales,Broughton,,The Borders,Scotland,,United Kingdom
+261,Brouwerij 't IJ,Funenkade 7,,Amsterdam,,0,Netherlands
+262,Brouwerij Abdij der Trappisten van Westmalle,Antwerpsesteenweg 476,,Westmalle,Antwerpen,,Belgium
+263,Brouwerij Abdij Saint Sixtus,Donkerstraat 12,,Westvleteren,West-Vlaanderen,,Belgium
+264,Brouwerij Alken-Maes,Rue Derbque 7,,Jumet,Hainaut,,Belgium
+265,Brouwerij Artois,Vaartstraat 94,,Leuven,Vlaams Brabant,,Belgium
+266,Brouwerij Bavik - De Brabandere,Rijksweg 33,,Bavikhove,West-Vlaanderen,,Belgium
+267,Brouwerij Bockor,Kwabrugstraat 5,,Bellegem,West-Vlaanderen,,Belgium
+268,Brouwerij Boon,Fonteinstraat 65,,Lembeek,Vlaams Brabant,,Belgium
+269,Brouwerij Bosteels,Kerkstraat 92,,Buggenhout,Oost-Vlaanderen,,Belgium
+270,Brouwerij De Achelse Kluis,De Kluis 1,,Achel,Limburg,,Belgium
+271,Brouwerij De Block,Nieuwbaan 92,,Merchtem-Peizegem,Vlaams Brabant,,Belgium
+272,Brouwerij De Dolle Brouwers,Roeselarestraat 12b,,Esen,West-Vlaanderen,BE-8160,Belgium
+273,Brouwerij de Gouden Boom,,,Brugge,West-Vlaanderen,,Belgium
+274,Brouwerij De Keersmaeker,Lierput 1,,Kobbegem,Vlaams Brabant,,Belgium
+1421,DC Brau,3178-B Bladensburg Rd. NE,,Washington,DC,20018,United States
+276,Brouwerij De Landtsheer,Mandekenstraat 179,,Buggenhout,Oost-Vlaanderen,,Belgium
+277,Brouwerij De Ranke,Brugsstraat 43,,Wevelgem,West-Vlaanderen,,Belgium
+278,Brouwerij De Regenboog,Astridlaan 134,,Assebroek,West-Vlaanderen,,Belgium
+279,Brouwerij De Smedt,Ringlaan 18,,Opwijk,Vlaams Brabant,,Belgium
+280,Brouwerij der Sint-Benedictusabdij de Achelse Kluis,,,Achel,,,Belgium
+281,Brouwerij Duvel Moortgat,,,Breendonk,,,Belgium
+282,Brouwerij Duysters,Michel Theysstraat 58A,,Diest,Vlaams Brabant,,Belgium
+283,Brouwerij Girardin,Lindenbergstraat 10,,Sint-Ulriks-Kapelle,Vlaams Brabant,,Belgium
+284,Brouwerij Het Anker,Guido Gezellelaan 49,,Mechelen,Antwerpen,,Belgium
+285,Brouwerij Huyghe,Brusselse Steenweg 282,,Melle,Oost-Vlaanderen,,Belgium
+286,Brouwerij Kerkom,Naamsesteenweg 469,,Kerkom,Limburg,,Belgium
+287,Brouwerij Liefmans,200 Aalststraat,,Oudenaarde,Oost-Vlaanderen,,Belgium
+288,Brouwerij Lindemans,Lenniksebaan 257,,Vlezenbeek,Vlaams Brabant,,Belgium
+289,Brouwerij Nacional Balashi,,,,,,Aruba
+290,Brouwerij Oud Beersel,Laarheiestraat 230,,Beersel,Vlaams Brabant,,Belgium
+291,Brouwerij Rodenbach,Spanjestraat 133-141,,Roeselare,West-Vlaanderen,,Belgium
+292,Brouwerij Roman,Hauwaart 105,,Oudenaarde,Oost-Vlaanderen,,Belgium
+293,Brouwerij Sint-Jozef,Itterplein 19,,Opitter,Limburg,,Belgium
+294,Brouwerij Slaghmuylder,Denterhoutembaan 2,,Ninove,Oost-Vlaanderen,,Belgium
+295,Brouwerij St-Feuillien,"20, rue d'Houdeng",,Le Roeulx,Hainaut,,Belgium
+296,Brouwerij St. Bernardus,Trappistenweg 23,,Watou,West-Vlaanderen,,Belgium
+297,Brouwerij Sterkens,Meerdorp 20,,Hoogstraten-Meer,Antwerpen,,Belgium
+298,Brouwerij Strubbe,Markt 1,,Ichtegem,West-Vlaanderen,,Belgium
+299,Brouwerij The Musketiers,Tramstraat 8,,Ursel,Oost-Vlaanderen,,Belgium
+300,Brouwerij Van Den Bossche,St Lievensplein 16,,Sint-Lievens-Esse,Oost-Vlaanderen,,Belgium
+301,Brouwerij Van Eecke,Douvieweg 2,,Watou,West-Vlaanderen,,Belgium
+302,Brouwerij van Hoegaarden,Stoopkensstraat 46,,Hoegaarden,Vlaams Brabant,,Belgium
+303,Brouwerij Van Honsebrouck,Oostrozebekestraat 43,,Ingelmunster,West-Vlaanderen,,Belgium
+304,Brouwerij Van Steenberge,Lindenlaan 25,,Ertvelde,Oost-Vlaanderen,,Belgium
+305,Brouwerij Verhaeghe,Beukenhofstraat 96,,Vichte,West-Vlaanderen,,Belgium
+306,Browar NamysÅ‚Ã³w Sp. z o.o.,ul. Bolesawa Chrobrego 26,,NamysÅ‚Ã³w,,,Poland
+307,Browar Okocim,ul. Browarna 14,,Brzesko,,,Poland
+308,Browar Warka,ul. GoÅ›niewska 65,,Warka,,,Poland
+309,Browar Zywiec,ul. Browarna 88,,Zywiec,,34-300,Poland
+310,Brown Street Brewery,16 North Brown Street,,Rhinelander,Wisconsin,54501,United States
+311,Brownings,401 East Main St.,,Louisville,Kentucky,40202,United States
+312,Bryggeriet lfabrikken,Hollselund Strandvej 74,,Tisvildeleje,,,Denmark
+313,BT McClintic Beer Company,,,Beloit,Wisconsin,,United States
+314,Bube's Brewery,102 North Market Street,,Mount Joy,Pennsylvania,17552,United States
+315,Budjovick Budvar,Karoliny Svtl 4,,esk Budjovice,,,Czech Republic
+316,Budjovick Mansk Pivovar,Lidick  51,,esk Budjovice,,,Czech Republic
+317,Bull & Bush Pub & Brewery,4700 Cherry Creek Drive South,,Denver,Colorado,80246,United States
+318,Bulldog Brewing,,,Fresno,California,,United States
+319,Bullfrog Brewery,231 W. Fourth Street,,Williamsport,Pennsylvania,17701,United States
+320,Bulmer Cider,,,Hereford,,,United Kingdom
+321,BÃ¼rgerbrÃ¤u Wolnzach,Am Brunnen 2,,Wolnzach,Bayern,,Germany
+322,Burton Bridge Brewery,Bridge Street,,Burton-upon-Trent,Staffordshire,DE14 1SY,United Kingdom
+323,Butte Creek Brewing,945 West Second Street,,Chico,California,95928,United States
+324,Butterfield Brewing #1,,,Fresno,California,,United States
+325,Buzzards Bay Brewing Inc.,98 Horseneck Rd,,Westport,Massachusetts,2790,United States
+326,C.B. & Potts of Cheyenne,1650 Dell Range Boulevard,,Cheyenne,Wyoming,82001,United States
+327,C.H. Evans Brewing Company,19 Quackenbush Square,,Albany,New York,12207,United States
+328,Caldera Brewing,540 Clover Lane,,Ashland,Oregon,97520,United States
+329,Caledonian Brewing,42 Slateford Road,,Edinburgh,Scotland,,United Kingdom
+330,Calhoun's Microbrewery,6515 Kingston Pike,,Knoxville,Tennessee,37919,United States
+331,California Cider Company,,,San Rafael,California,,United States
+332,Callahan's Pub and Brewery,8280-A Mira Mesa Boulevard,,San Diego,California,92126,United States
+333,Cambridge Brewing,1 Kendall Square #100,,Cambridge,Massachusetts,2139,United States
+334,Cameron's Brewing,1165 Invicta Drive,,Oakville,Ontario,0,Canada
+335,Camerons Brewery Company,Lion Brewery,,Harltepool,Cleveland,,United Kingdom
+336,Canadian Brewery,,,Saskatoon,Saskatchewan,,Canada
+337,Cape Ann Brewing,27 Commercial Street,,Gloucester,Massachusetts,1930,United States
+338,Capital Brewery,7734 Terrace Avenue,,Middleton,Wisconsin,53562,United States
+339,Capital City Brewing Company,"1100 New York Ave, NW",,Washington,District of Columbia,20005,United States
+340,Capitol City Brewing #4,2700 South Quincy Street,,Arlington,Virginia,22206,United States
+341,Captain Lawrence Brewing Company,99 Castleton Street,,Pleasantville,New York,10570,United States
+343,Carlow Brewing Company,"The Goods Store, Station Road",,Carlow,,,Ireland
+344,Carlsberg Bryggerierne,Vesterflledvej 100,,Kbenhavn,,,Denmark
+345,Carlsberg Sverige AB,rstadvgen,,Falkenberg,,,Sweden
+346,Carlton and United Breweries,77 Southbank Boulevard,,Melbourne,Victoria,,Australia
+347,Carlyle Brewing,215 East State Street,,Rockford,Illinois,61104,United States
+348,Carmel Brewing,,,Salinas,California,,United States
+349,Carolina Beer Company,110 Barley Park Lane,,Mooresville,North Carolina,28115,United States
+350,Carolina Brewery,460 West Franklin Street,,Chapel Hill,North Carolina,27516,United States
+351,Carver Brewing Co.,1022 Main Ave.,,Durango,Colorado,81301,United States
+352,Castle Springs Brewery,,,Moultonborough,New Hampshire,,United States
+353,Cat's Paw Home Brew,,,,,,United States
+354,Catamount Brewing,,,White River Junction,Vermont,,United States
+355,Cedar Brewing,,,Cedar Rapids,Iowa,,United States
+356,Celis Brewery,,,Austin,Texas,,United States
+357,Central City Brewing Company,13450 - 102 Avenue,,Surrey,British Columbia,,Canada
+358,Central Waters Brewing Company,351 Allen Street,,Amherst,Wisconsin,54406,United States
+359,Cervecera Centro Americana S.A.,"3ra.Av.Norte Final, Finca El Zapote, Zona 2",,Guatemala City,,,Guatemala
+360,Cervecera Cuauhtmoc-Moctezuma,Av.Alfonso Reyes Norte No.2202,,Monterrey,Nuevo Leon,,Mexico
+361,Cervecera del Pacfico,Calz.Gabriel Leyva y Melchor Ocampo,,Mazatln,Sinaloa,,Mexico
+362,Cervecera Hondurea,Carretera a Puerto Corts,,San Pedro Sula,,,Honduras
+363,Cervecera Jerome,Mendoza,,Mendoza,,,Argentina
+364,Cervecera Nacional,Va Ricardo J. Alfaro y Transistmica,,El Dorado,,,Panama
+365,Cerveceria Bucanero,Circunvalacin Sur Km. 3 1/2,,Holguin,,,Cuba
+366,CervecerÃ­a La Constancia,,,San Salvador,,,El Salvador
+367,Cervejaria de Macau,"Unit 1-B, Blk. A, Edf. Ind. Fei Tong",,Macao,,,Macao
+368,Cervejaria Kaiser Brasil,"Avenida Tocantins, 199 / Caixa Postal 621",,Ponta Grossa,Paran,,Brazil
+369,Cervejaria Sudbrack,"Rua Bahia, 5181",,Blumenau,Santa Catarina,,Brazil
+370,Cervezas Alhambra,"Avenida de Murcia, 1",,Granada,,,Spain
+371,Chama River Brewing,4939 Pan American Freeway NE,,Albuquerque,New Mexico,87109,United States
+372,Charles Wells Ltd.,Havelock Street,,Bedford,Bedford,,United Kingdom
+373,Charlie and Jake's Brewery and BBQ,6300 North Wickham Road #137,,Melbourne,Florida,32940,United States
+374,Chelsea Brewing Company,"Chelsea Piers, Pier 59",,New York,New York,10011,United States
+375,Cherryland Brewing,,,Sturgeon Bay,Wisconsin,,United States
+376,Cheshire Cat Brewery,7803 Ralston Road,,Arvada,Colorado,80002,United States
+377,Chicago Brewing,2201 South Fort Apache Road,,Las Vegas,Nevada,89117,United States
+378,Chimay (Abbaye Notre Dame de Scourmont),Route de Charlemagne 8,,Chimay,,,Belgium
+379,Cigar City Brewing,3924 West Spruce Street Suite A,,Tampa,Florida,33607,United States
+380,Circle V Brewing,,,Indianapolis,Indiana,,United States
+381,"City Brewing Company, LLC",925 South Third Street,,La Crosse,Wisconsin,54601,United States
+382,CJ's Brewery & Grill,,,La Jolla,California,,United States
+383,Cleveland ChopHouse and Brewery,824 West St.Clair Avenue,,Cleveland,Ohio,44113,United States
+384,Climax Brewing Copmany,112 Valley Road,,Roselle Park,New Jersey,7204,United States
+385,Clipper City Brewing Co.,4615-B Hollins Ferry Road,,Baltimore,Maryland,21227,United States
+386,Clner Hofbrau Frh,Am Hof 12-14,,Kln,Nordrhein-Westfalen,,Germany
+387,Coach's Norman,102 West Main,,Norman,Oklahoma,73069,United States
+388,Coast Brewing,,,Biloxi,Mississippi,,United States
+389,Coast Range Brewing,7050 Monterey Street,,Gilroy,California,95020,United States
+390,Coastal Fog Brewing,,,Concord,California,,United States
+391,Coeur d'Alene Brewing Company,209 Lakeside Avenue,,Coeur d'Alene,Idaho,83814,United States
+392,Cold Spring Brewing,219 Red River Avenue North,,Cold Spring,Minnesota,56320,United States
+393,Columbia Bay Brewery Restaurant and Pub,,,Lake Villa,Illinois,,United States
+394,Commonwealth Brewing #1,,,Boston,Massachusetts,,United States
+395,Coniston Brewing,Coppermines Road,,Coniston,Cumbria,,United Kingdom
+396,Cooper's Cave Ale Company,2 Sagamore Street,,Glens Falls,New York,12801,United States
+397,Coopers Brewery,461 South Road,,Regency Park,South Australia,,Australia
+398,Cooperstown Brewing Company,"River Street, P.O. Box 276",,Milford,New York,13807,United States
+399,Coors Brewing - Golden Brewery,311 Tenth Street,,Golden,Colorado,80401,United States
+400,Copper Dragon Brewing,,,Carbondale,Illinois,62901,United States
+401,Copper Eagle Brewing,,,Grand Island,Nebraska,,United States
+402,Copper Kettle Brewery,339 Fairground Rd,,Millmont,Pennsylvania,17845,United States
+403,Corner Pub,100 Main Street,,Reedsburg,Wisconsin,53959,United States
+404,Coronado Brewing Company,170 Orange Avenue,,Coronado,California,92118,United States
+405,Costal Extreme Brewing Company,307 Oliphant Lane,,Middletown,Rhode Island,2842,United States
+406,Courage Brewery,Tadcaster LS24 9SA,,Tadcaster,North Yorkshire,,United Kingdom
+407,Court Avenue Brewing,309 Court Avenue,,Des Moines,Iowa,50309,United States
+408,Courthouse Pub,1001 South Eighth Street,,Manitowoc,Wisconsin,54220,United States
+409,Crabby Larry's Brewpub Steak & Crab House,237 West Butler Avenue,,Chalfont,Pennsylvania,18914,United States
+410,Crabtree Brewery,625 3rd St. #D,,Greeley,Colorado,80631,United States
+411,Craftsman Brewing,1260 Lincoln Avenue #100,,Pasadena,California,91103,United States
+412,Crane River Brewpub and Cafe,,,Lincoln,Nebraska,,United States
+413,Crescent City Brewhouse,527 Decatur Street,,New Orleans,Louisiana,70130,United States
+414,Crested Butte Brewery &  Pub,226 Elk Avenue,,Crested Butte,Colorado,81224,United States
+415,Cricket Hill,24 Kulick Road,,Fairfield,New Jersey,7004,United States
+416,Crooked River Brewing,,,Cleveland,Ohio,,United States
+417,Crooked Waters Brewing,,,Peoria,Illinois,,United States
+418,Cropton Brewery,Cropton,,Pickering,North Yorkshire,,United Kingdom
+1420,Devil's Canyon,,,Belmont,CA,,United States
+420,Cucapa Brewing Company,,,Mexicali,Baja,,Mexico
+421,Cugino Brewing Company,1501 East Wilson,,Batavia,Illinois,60510,United States
+422,Cumberland Brewery,1576 Bardstown Rd,,Louisville,Kentucky,40205,United States
+423,D.L. Geary Brewing Company,38 Evergreen Drive,,Portland,Maine,4103,United States
+424,Daas,,,Tournai,,,Belgium
+425,Daleside Brewery,Camwal Road,,Harrogate,North Yorkshire,,United Kingdom
+426,Dark Horse Brewing Co.,511 S. Kalamazoo Ave.,,Marshall,Michigan,49068,United States
+427,Day Brewing,,,Marrero,Louisiana,,United States
+428,de dochter van de korenaar,pastoor de katerstraat 24,,baarle-hertog,,2387,Belgium
+429,De Friese Bierbrouwerij Us Heit,Snekerstraat 43,,Bolsward,,,Netherlands
+430,De Halve Maan,Walplein 26,,Brugge,West-Vlaanderen,BE-8000,Belgium
+431,De Leyerth Brouwerijen,Krommekeerstraat 21,,Ruiselede,West-Vlaanderen,,Belgium
+432,De Proef Brouwerij,Doornzelestraat 20,,Lochristi-Hijfte,Oost-Vlaanderen,,Belgium
+433,De Struise Brouwers,Woesten,,Woesten,West-Vlaanderen,,Belgium
+434,Deep Creek Brewing,,,McHenry,Maryland,,United States
+435,DeGroen's Grill,,,Baltimore,Maryland,,United States
+436,Del Mar Stuft Pizza and Brewing,,,San Diego,California,,United States
+437,Delafield Brewhaus,3832 Hillside Drive,,Delafield,Wisconsin,53018,United States
+438,Dempsey's Restaurant & Brewery,50 East Washington Street,,Petaluma,California,94952,United States
+439,Denmark Brewing,,,Denmark,Wisconsin,,United States
+440,Denver ChopHouse and Brewery,1735 19th Street #100,,Denver,Colorado,80202,United States
+441,Deschutes Brewery,901 SW Simpson Avenue,,Bend,Oregon,97702,United States
+442,Desnoes & Geddes Ltd,214 Spanish Town,,Kingston,,,Jamaica
+443,Devil Mountain Brewing,,,Cincinnati,Ohio,,United States
+444,Diamond Bear Brewing Co.,323-C Cross Street,,Little Rock,Arkansas,72201,United States
+445,Diamond Knot Brewery & Alehouse,621 Front Street,,Mukilteo,Washington,98275,United States
+446,Diamondback Brewery,,,Cleveland,Ohio,,United States
+447,Dick's Brewing,5945 Prather Road,,Centralia,Washington,98531,United States
+448,Diebels Privatbrauerei,Brauerei-Diebels-Strae 1,,Issum,Nordrhein-Westfalen,,Germany
+449,Dieu du Ciel,29 Laurier Ouest,,MontrÃ©al,Quebec,,Canada
+450,Dillon Dam Brewery,100 Little Dam Road,,Dillon,Colorado,80435,United States
+451,Dinkelacker-Schwaben Bru,Tbinger Strae 46,,Stuttgart,Baden-Wrttemberg,,Germany
+452,Dirt Cheap Cigarettes and Beer,895 Bolger Court,,Fenton,Missouri,63026,United States
+453,Dix Barbecue & Brewery,871 Beatty Street,,Vancouver,British Columbia,0,Canada
+454,Dixie Brewing,2401 Tulane Avenue,,New Orleans,Louisiana,70119,United States
+455,Dixon's Downtown Grill,,,Denver,Colorado,80202,United States
+456,Dock Street Beer,701 S. 50th Street,,West Philly,Pennsylvania,19143,United States
+457,Dockside Brewing,1253 Johnston Street,,Vancouver,British Columbia,0,Canada
+458,Doemens e.V.,Stefanusstrae 8,,Grfelfing,Bayern,,Germany
+459,Dogfish Head Craft Brewery,6 Cannery Village Center,,Milton,Delaware,19968,United States
+460,Dortmunder Actien Brauerei  DAB,Steigerstrae 20,,Dortmund,Nordrhein-Westfalen,,Germany
+461,Dostal Alley,1 Dostal Alley,,Central City,Colorado,80427,United States
+462,Double Mountain Brewery & Taproom,8 Fourth Street,,Hood River,Oregon,97031,United States
+463,Dragonmead Microbrewery,14600 East Eleven Mile Road,,Warren,Michigan,48089,United States
+464,Drake's Brewing,1933 Davis Street #177,,San Leandro,California,94577,United States
+465,Dreher Srgyrak Zrt.,Jszbernyi t 7-11,,Budapest,,,Hungary
+466,Dry Gulch Brewing,,,Albuquerque,New Mexico,,United States
+467,Dublin Brewing,,,Dublin,,,Ireland
+468,Dubuque Brewing and Bottling,,,Dubuque,Iowa,,United States
+469,Duck-Rabbit Craft Brewery,4519 W. Pine Street,,Farmville,North Carolina,27828,United States
+470,DuClaw,901 S. Bond St.,,Baltimore,Maryland,21231,United States
+471,Dunedin Brewery,937 Douglas Ave,,Dunedin,,34698,United States
+472,Duneland Brewhouse Pub and Restaurant,,,Michigan City,Indiana,46360,United States
+473,Duvel Moortgat,Breendonkdorp 58,,Breendonk,Antwerpen,,Belgium
+474,Dux de Lux,16 Church Street PO Box 684,,Queenstown,,,New Zealand
+475,Eagle Brewing,625 Fourth Street,,Mukilteo,Washington,98275,United States
+476,East End Brewing Company,6923 Susquehanna St.,,Pittsburgh,Pennsylvania,15208,United States
+477,Eastern Shore Brewing,605 S. Talbot St.,,St Michaels,Maryland,21663,United States
+478,Eddie McStiff's Brewpub,57 South Main Street,,Moab,Utah,84532,United States
+479,Edelweissbrauerei Farny,Drren 5,,Kilegg,Baden-Wrttemberg,,Germany
+480,Eder & Heylands,Aschaffenburger StraÃŸe 3-5,,GroÃŸostheim,Bavaria,63762,Germany
+481,Eel River Brewing,1777 Alamar Way,,Fortuna,California,95540,United States
+482,Efes Moscow Brewery,"ul. Podolskikh Kursantov, 15 B",,Moskva,Moskva,,Russia
+483,Egan Brewing,,,De Pere,Wisconsin,,United States
+484,Einbecker Brauhaus AG,Papenstrae 4-7,,Einbeck,Niedersachsen,,Germany
+485,EJ Phair Brewing Company and Alehouse,2151 Salvio Street,,Concord,California,94520,United States
+486,el ahram company,,,,,,Egypt
+487,El Toro Brewing Company,17605 Monterey Road,,Morgan Hill,California,95037,United States
+488,"Eldridge, Pope and Co.",,,Dorchester,Dorset,,United Kingdom
+489,Elgood & Sons,Wisbech PE13 1LN,,Wisbech,Cambridge,,United Kingdom
+490,Elk Creek Cafe and Aleworks,100 West Main Street PO Box 432,,Millheim,Pennsylvania,16854,United States
+491,Elk Grove Brewery & Restaurant,9085 Elk Grove Boulevard,,Elk Grove,California,95624,United States
+492,Ellersick Brewing Big E Ales,5030 208th ST SW Ste. A,,Lynnwood,Washington,98036,United States
+493,Ellicott Mills Brewing,8308 Main Street,,Ellicott City,Maryland,21043,United States
+494,Elliott Bay Brewery and Pub,4720 California Avenue SW,,Seattle,Washington,98116,United States
+495,Elm City Brewing Co,222 West St # 46,,Keene,New Hampshire,3431,United States
+496,Elysian Brewery & Public House,1221 East Pike Street,,Seattle,Washington,98122,United States
+497,Elysian Brewing - TangleTown,2106 North 55th Street,,Seattle,Washington,98103,United States
+498,Emerson Brewing,14 Wickliffe Street,,Dunedin,,,New Zealand
+499,Emery Pub,,,Emeryville,California,,United States
+500,Emmett's Tavern and Brewery,128 West Main Street,,West Dundee,Illinois,60118,United States
+501,Empyrean Brewing Company,729 Q Street,,Lincoln,Nebraska,68508,United States
+502,EndeHouse Brewery and Restaurant,,,Reedsburg,Wisconsin,,United States
+503,Engel Brauerei Schwbisch Gmnd Lang,D-73525 Schwbisch Gmnd,,Schwbisch Gmnd,Baden-Wrttemberg,,Germany
+504,Engine House #9,611 North Pine,,Tacoma,Washington,98406,United States
+505,English Ales Brewery,223 Reindollar Avenue,,Marina,California,93933,United States
+506,Epic Brewing Company,"186 James Fletcher Drive, Otahuhu",,Auckland,,2145,New Zealand
+507,Erie Brewing Company,1213 Veshecco Drive,,Erie,Pennsylvania,16501,United States
+508,Esser's Cross Plains Brewery,2109 Hickory Street,,Cross Plains,Wisconsin,53528,United States
+509,Estes Park Brewery,470 Prospect Village Dr.,,Estes Park,Colorado,80517,United States
+510,Etna Brewing,131 Callahan,,Etna,California,96027,United States
+511,Ettaler Klosterbetriebe Abteilung Brauerei & Destillerie,Kaiser-Ludwig-Platz 1,,Ettal,Bayern,,Germany
+512,F.X. Matt Brewing,811 Edward Street,,Utica,New York,13502,United States
+513,Far West Ireland Brewing,,,Redmond,Washington,98052,United States
+514,Fauerbach Brewing Company,1714 Camus Lane,,Madison,Wisconsin,53705,United States
+515,Faultline Brewing #1,1235 Oakmead Parkway,,Sunnyvale,California,94086,United States
+516,Faultline Brewing #2,,,Walnut Creek,California,94596,United States
+517,Federation Brewery,Lancaster Road,,Gateshead,Tyne and Wear,,United Kingdom
+518,FeldschlÃ¶ÃŸchen AG,Cunnersdorfer Str. 25,,Dresden,Sachsen,1189,Germany
+519,Felinfoel Brewery Co Ltd,Farmers Row,,Llanelli,Wales,,United Kingdom
+520,Fifty Fifty Brewing Co.,11197 Brockway Road,,Truckee,California,96161,United States
+521,Firehouse Brewery & Restaurant,,,Red Oak,Iowa,,United States
+522,Firehouse Brewing,610 Main Street,,Rapid City,South Dakota,57701,United States
+523,Firehouse Grill & Brewery,111 South Murphy Avenue,,Sunnyvale,California,94086,United States
+524,Firestone Walker Brewing Company,1400 Ramada Drive,,Paso Robles,California,93446,United States
+525,First Coast Brewing,,,Wilmington,North Carolina,,United States
+526,Fish Brewing Company & Fish Tail Brewpub,515 Jefferson Street SE,,Olympia,Washington,98501,United States
+527,"Fitger's Brewhouse, Brewery and Grill",600 East Superior Street,,Duluth,Minnesota,55804,United States
+528,Fitzpatrick's Brewing,,,Iowa City,Iowa,,United States
+529,Flagstaff Brewing,16 East Route 66,,Flagstaff,Arizona,86001,United States
+530,Flat Branch Pub & Brewing,115 S. Fifth St.,,Columbia,Missouri,65201,United States
+531,Flat Earth Brewing Company,2035 Benson Avenue,,St. Paul,Minnesota,55116,United States
+532,Flatlander's Restaurant & Brewery,200 Village Green,,Lincolnshire,Illinois,60069,United States
+534,Flensburger Brauerei,Munketoft 12,,Flensburg,Schleswig-Holstein,24937,Germany
+535,Florida Beer Company,2500 S. Harbor City Blvd.,,Melbourne,Florida,32901,United States
+536,Flossmoor Station Brewery,1035 Sterling Avenue,,Flossmoor,Illinois,60422,United States
+537,Flour City Brewing,,,Rochester,New York,,United States
+538,Flyers Restraunt and Brewery,32295 State Route 20,,Oak Harbor,Washington,98277,United States
+539,Flying Bison Brewing,491 Ontario Street,,Buffalo,New York,14207,United States
+540,Flying Dog Brewery,2401 Blake St.,,Denver,Colorado,80205,United States
+541,Flying Fish Brewing Company,1940 Olney Avenue,,Cherry Hill,New Jersey,8003,United States
+542,Folx-les-Caves,B-1350 Jauche,,Jauche,Brabant Wallon,,Belgium
+543,Foothills Brewing Company,638 W. 4th Street,,Winston-Salem,North Carolina,27101,United States
+544,Fordham Brewing,"95 Cathedral Street, Suite 200",,Annapolis,Maryland,21401,United States
+545,Fort Collins Brewery,1900-B East Lincoln Avenue,,Fort Collins,Colorado,80524,United States
+546,Foster's Australia Ltd.,,,,,,Australia
+547,Fosters Tien Gang,Thnh Pho Ho Ch Minh,,Thnh Pho Ho Ch Minh,,,Viet Nam
+548,Founder's Restaurant & Brewing,,,Alexandria,Virginia,,United States
+549,Founders Brewing,235 Grandville Avenue SW,,Grand Rapids,Michigan,49503,United States
+550,Founders Hill Brewing,,,Downers Grove,Illinois,,United States
+551,Four Peaks Brewing,1340 East Eighth Street #103,,Tempe,Arizona,85281,United States
+552,Fox River Brewing #1,1501 Arboretum Drive,,Oshkosh,Wisconsin,54901,United States
+553,Fratellos Restaurant and Brewery,4301 West Wisconsin,,Appleton,Wisconsin,54915,United States
+554,Frederic Robinson Ltd.,Unicorn Brewery,,Stockport,Cheshire,,United Kingdom
+555,Frederick Brewing,4607 Wedgewood Boulevard,,Frederick,Maryland,20176,United States
+556,Free State Brewing,636 Massachusetts,,Lawrence,Kansas,66044,United States
+557,Freeminer Brewery,Whimsey Road,,Cinderford,Gloucestershire,,United Kingdom
+558,Friesisches Brauhaus zu Jever,Elisabethufer 18,,Jever,Niedersachsen,,Germany
+559,Front Street Brewery,208 East River Drive,,Davenport,Iowa,52801,United States
+560,Frontwaters Restaurant and Brewing,,,Marblehead,Ohio,,United States
+561,Frstliche Brauerei Thurn Und Taxis Regensburg,Waffnergasse 6-8,,Regensburg,Bayern,,Germany
+562,Full Sail Brewing #1,506 Columbia Street,,Hood River,Oregon,97031,United States
+563,"Fuller, Smith & Turner PBC",Chiswick Lane South,,London,London,,United Kingdom
+564,FÃ¼rstlich FÃ¼rstenbergische Brauerei,Postplatz 1-4,,Donaueschingen,Baden-Wrttemberg,,Germany
+565,G. Heileman Brewing,,,La Crosse,Wisconsin,,United States
+566,Gaslight Brewery,15 South Orange Avenue,,South Orange,New Jersey,7079,United States
+567,Gasthaus & Gosebrauerei Bayerischer Bahnhof,Bayerischer Platz 1,,Leipzig,Sachsen,,Germany
+568,Gasthaus-Brauerei Max & Moritz,Weinbichl 6,,Kressbronn am Bodensee,Baden-Wrttemberg,,Germany
+569,Gasthof-Brauerei zum Frohsinn,Romanshornerstrasse 15,,Arbon,,,Switzerland
+570,Gatz Brauhaus,,,Dsseldorf,Nordrhein-Westfalen,,Germany
+571,George Bateman and Son Ltd.,Mill Lane,,Skegness,Lincoln,,United Kingdom
+572,George Gale & Company,,,Portsmouth,Hampshire,,United Kingdom
+573,Gilde Brauerei,Hildesheimer Strae 132,,Hannover,Niedersachsen,,Germany
+574,Glacial Lakes Brewing,,,New York Mills,Minnesota,,United States
+575,Glacier Brewhouse,"737 W. 5th Ave., Suite 110",,Anchorage,Alaska,99501,United States
+576,Glen Ellyn Sports Brew,,,Glen Ellyn,Illinois,,United States
+577,Glenwood Canyon Brewing Company,402 Seventh Street,,Glenwood Springs,Colorado,81601,United States
+578,Gold Coast Brewery,,,Sanctuary Cove,Queensland,,Australia
+579,Gold Crown Brewing,71 King Street North,,Waterloo,Ontario,0,Canada
+580,Golden City Brewery,920 Twelfth Street,,Golden,Colorado,80401,United States
+581,Golden Gate Park Brewery,,,San Francisco,California,,United States
+582,Golden Pacific Brewing,,,Berkeley,California,,United States
+583,Golden Prairie Brewing,2536 North Elston Avenue,,Chicago,Illinois,60647,United States
+584,Golden Valley Brewery and Pub,980 NE Fourth Street,,McMinnville,Oregon,97128,United States
+585,Goose Island Beer Company - Clybourn,1800 North Clybourn Avenue,,Chicago,Illinois,60614,United States
+586,Goose Island Beer Company - Fulton Street,1800 West Fulton Street,,Chicago,Illinois,60612,United States
+587,Gordash Brewing Company,3804 S.W 30th Ave,,Fort Lauderdale,Florida,33312,United States
+588,Gordon Biersch Brewing,357 East Taylor Street,,San Jose,California,95112,United States
+589,Gore Range Brewery,105 Edwards Village Boulevard,,Edwards,Colorado,81632,United States
+590,Gottberg Brew Pub,2804 13th Street,,Columbus,Nebraska,68601,United States
+591,Govnor's Public House,220 North Randall Road,,Lake In The Hills,Illinois,60156,United States
+592,Grand Lake Brewing,915 Grand Avenue,,Grand Lake,Colorado,80447,United States
+593,Grand Teton Brewing #1,1295 North West Street,,Wilson,Wyoming,83014,United States
+594,Grand Teton Brewing #2,430 Old Jackson Highway,,Victor,Idaho,83455,United States
+595,Granite City Food & Brewery - Omaha,1001 North 102nd Street,,Omaha,Nebraska,68114,United States
+596,Granite City Food & Brewery - Saint Cloud,3945 Second Street South,,Saint Cloud,Minnesota,56301,United States
+597,Granville Island Brewing,1125 Richter Street,,Kelowna,British Columbia,,Canada
+598,Granville Island Brewing Company,1441 Cartwright Street,,Vancouver,British Columbia,0,Canada
+599,Gray Brewing,2424 West Court Street,,Janesville,Wisconsin,53545,United States
+600,Great Basin Brewing Company,846 Victorian Ave,,Sparks,Nevada,89431,United States
+601,Great Bear Brewing,238 North Boundary Street,,Wasilla,Alaska,99654,United States
+602,Great Dane Pub and Brewing #1,123 East Doty Street,,Madison,Wisconsin,53703,United States
+603,Great Dane Pub and Brewing #2,2980 Cahill Main,,Fitchburg,Wisconsin,53711,United States
+604,Great Divide Brewing,2201 Arapahoe Street,,Denver,Colorado,80205,United States
+605,Great Lakes Brewing,2516 Market Avenue,,Cleveland,Ohio,44113,United States
+606,Great Northern Tavern and Brewery,,,Keystone,Colorado,,United States
+607,Great Waters Brewing Company,426 St.Peter Street,,Saint Paul,Minnesota,55102,United States
+608,Green Bay Brewing,313 Dousman Street,,Green Bay,Wisconsin,54303,United States
+609,Green Flash Brewing,1430 Vantage Court #104A,,Vista,California,92083,United States
+610,Green Mill Brewing - Saint Paul,57 Hamline Avenue South,,Saint Paul,Minnesota,55105,United States
+611,Green Mountain Beverage,153 Pond Lane,,Middlebury,Vermont,5753,United States
+612,Greene King,Westgate Street,,Bury St. Edmunds,Suffolk,,United Kingdom
+613,Greenshields Brewery and Pub,,,Raleigh,North Carolina,,United States
+614,Grizzly Bay Brewing,,,Suisun City,California,,United States
+615,Grizzly Peak Brewing,120 West Washington Street,,Ann Arbor,Michigan,48104,United States
+616,Grolsche Bierbrouwerij,Brouwerslaan 1,,Enschede,Overijssel,7548 XA,Netherlands
+617,Grumpy Troll Restaurant and Brewery,105 South Second Street,,Mount Horeb,Wisconsin,53572,United States
+618,Grupo Modelo,,,Mexico City,,,Mexico
+619,Gulpener Bierbrouwerij,Rijksweg 16,,Gulpen,,0,Netherlands
+620,Haarlems Biergenootschap Jopen,R Pereboomweg 13 achter,,Haarlem,,,Netherlands
+621,Hacker-Pschorr Bru,,,Mnchen,Bayern,,Germany
+622,Hair of the Dog Brewing,4509 SE 23rd Avenue,,Portland,Oregon,97202,United States
+623,Hale's Ales #3,4301 Leary Way NW,,Seattle,Washington,98107,United States
+624,Half Moon Bay Brewing,390 Capistrano Road,,Princeton by the Sea,California,94019,United States
+625,Ham's Restaurant and Brewhouse,701 Evans Street,,Greenville,North Carolina,27834,United States
+626,Hambleton Ales,Melmerby Green Road,,Melmerby,North Yorkshire,,United Kingdom
+627,Hampshire Brewery,6-8 Romsey Industrial Estate,,Romsey,Hampshire,,United Kingdom
+628,Hannen Brauerei,,,Mnchengladbach,Nordrhein-Westfalen,,Germany
+629,Hansa Bryggeri,Kokstaddalen 3,,Bergen,,,Norway
+630,Hanssens Artisanal,Vroenenbosstraat 15,,Dworp,Vlaams Brabant,,Belgium
+631,Hapa*s Brew Haus and Restaurant,,,Kihei,Hawaii,,United States
+632,Harbor City Brewing,535 West Grand Avenue,,Port Washington,Wisconsin,53074,United States
+633,Harmon Brewing Company,1938 Pacific Avenue,,Tacoma,Washington,98402,United States
+634,Harpoon Brewery - Boston,306 Northern Avenue,,Boston,Massachusetts,2210,United States
+635,Harpoon Brewery - Windsor,336 Ruth Carney Drive,,Windsor,Vermont,5089,United States
+636,Harvest Moon Brewery / Cafe,392 George Street,,New Brunswick,New Jersey,8901,United States
+637,Harvey & Son (Lewes),6 Cliffe High Street,,Lewes,East Sussex,,United Kingdom
+638,Harviestoun Brewery,Hillfoots Business Village,,Alva,Scotland,,United Kingdom
+639,Hasserder Brauerei,Auerhahnring 1,,Wernigerode,Sachsen-Anhalt,,Germany
+640,Hausbrauerei Zum Schlssel,Bolkerstrae 41-47,,Dsseldorf,Nordrhein-Westfalen,,Germany
+641,Hawks Brewing,,,Roseburg,Oregon,97470,United States
+642,HC Berger Brewing,,,Fort Collins,Colorado,,United States
+643,Heartland Brewery Union Square,,,New York,New York,10003,United States
+644,Heavenly Daze Brewery and Grill,,,Denver,Colorado,,United States
+645,Heavyweight Brewing,,,Ocean,New Jersey,,United States
+646,Heineken HungÃ¡ria,,,Sopron,,,Hungary
+647,Heineken International,,,,,,Netherlands
+648,Heineken Ireland,Lady's Well Brewery,,Cork,,,Ireland
+649,Heineken Switzerland,Haldenstrasse 69,,Winterthur,,,Switzerland
+650,Heller Bru Trum,Dominikanerstrae 6,,Bamberg,Bayern,,Germany
+651,Hereford & Hops Restaurant and Brewpub #1,624 Ludington Street,,Escanaba,Michigan,49829,United States
+652,Hereford & Hops Steakhouse and Brewpub #3,2201 Sherman Street,,Wausau,Wisconsin,54401,United States
+653,Herkimer Pub & Brewery,2922 Lyndale Avenue South,,Minneapolis,Minnesota,55408,United States
+654,Hida Takayama Brewing Agricultural Company,999 Matsumoto-cho,,Takayama,Chubu,,Japan
+655,High Desert Brewing Co.,1201 W. Hadley Ave.,,Las Cruces,New Mexico,88005,United States
+656,High Falls Brewing,445 St.Paul Street,,Rochester,New York,14605,United States
+657,High Point Wheat Beer Company,22 Park Place,,Butler,New Jersey,7405,United States
+658,Highland Brewing Company,12 Old Charlotte Highway,,Asheville,North Carolina,28803,United States
+659,Hirschbru Privatbrauerei Hss,Grntenstrae 7,,Sonthofen,Bayern,,Germany
+660,Hite Brewery,,,Seoul,,,"Korea, Republic of"
+661,Hochstiftliches Brauhaus in Bayern,Brckenauer Strae 6,,Motten,Bayern,,Germany
+662,Hoepfner Privatbrauerei,Haid-und-Neu-Strae 18,,Karlsruhe,Baden-Wrttemberg,,Germany
+663,Hofbru Kaltenhausen Salzachtal,Salzachtal Bundesstrae Nord 37,,Hallein,,,Austria
+664,Hofbruhaus Traunstein,Hofgasse 6-11,,Traunstein,Bayern,,Germany
+665,Hoffbrau Steaks Brewery #1,,,Addison,Texas,,United States
+666,Hoffbrau Steaks Brewery #2,,,Dallas,Texas,,United States
+667,Hofmark Brauerei,Hofmarkstrae 15,,Cham,Bayern,,Germany
+668,Holsten-Brauerei,Holstenstrae 224,,Hamburg,Hamburg,,Germany
+669,Hook & Ladder Brewing Company,8113 Fenton St.,,Silver Spring,Maryland,20910,United States
+670,Hook Norton Brewery,Brewery Lane,,Hook Norton,Oxford,,United Kingdom
+671,Hop Back Brewery,Unit 21-24 Batten Road Industrial Estate,,Salisbury,Wiltshire,,United Kingdom
+672,Hoppers Seafood & Grill,890 East Fort Union Boulevard,,Midvale,Utah,84047,United States
+673,Hoppin Frog Brewery,1680-F East Waterloo Rd.,,Akron,Ohio,44306,United States
+674,Hoppy Brewing Company,6300 Folsom Boulevard,,Sacramento,California,95819,United States
+675,Hops Grillhouse & Brewery - Cherry Creek,149 Steele Street,,Denver,Colorado,80206,United States
+676,Hops Haven Brew Haus,1327 North 14th Street,,Sheboygan,Wisconsin,53081,United States
+677,HopTown Brewing,3015-D Hopyard Road,,Pleasanton,California,94588,United States
+678,Hopworks Urban Brewery,2944 SE Powell Blvd,,Portland,Oregon,97202,United States
+679,Hornsby's Pubdrafts Ltd.,600 Yosemite Boulevard,,Modesto,California,,United States
+680,HP Bulmer,The Cider Mills,,Hereford,Hereford and Worcester,,United Kingdom
+681,Htt-Brauerei Bettenhuser,Knallhtte,,Baunatal,Hessen,,Germany
+682,Hubcap Brewery and Kitchen,,,Vail,Colorado,,United States
+683,Hudepohl-Schoenling Brewing,"10921 Reed Hartman Highway, Suite 329",,Cincinnati,Ohio,45242,United States
+684,Hue Brewery,Hue,,Hue,,,Viet Nam
+1419,Uehara Shuzou Co. Ltd. / Echigo Beer Pub,Niigata-ken Nishikanbara-gun,,,, 953-0076,Japan
+686,Humboldt Brewing,856 10th Street,,Arcata,California,95521,United States
+687,ICOBES b.v.b.a.,Durmakker 23,,Evergem,Oost-Vlaanderen,,Belgium
+688,Idaho Brewing,,,Idaho Falls,Idaho,,United States
+689,Illinois Brewing,102 North Center Street #111,,Bloomington,Illinois,61701,United States
+690,InBev,Brouwerijplein 1,,Leuven,,3000,Belgium
+691,Independence Brew Pub,1150 Filbert Street,,Philadelphia,Pennsylvania,19107,United States
+692,Independence Brewing Co,3913 Todd Lane #607,,Austin,Texas,78744,United States
+693,Indian Wells Brewing,2565 North Highway 14,,Inyokern,California,93527,United States
+694,Industrias La Constancia ILC,Avenida Independencia No.526,,San Salvador,,,El Salvador
+695,Industrija Piva I Sokova Trebjesa,Njegoseva 18,,Nikic,,,Serbia and Montenegro
+696,Inveralmond Brewery,Inveralmond Way,,Perth,Scotland,,United Kingdom
+697,Irish Brewing Company,Newbridge Industrial Estate,,Newbridge,,,Ireland
+698,Iron City Brewing Co.,3340 Liberty Ave.,,Pittsburgh,Pennsylvania,15201,United States
+699,Iron Hill Brewery - Newark,147 East Main Street,,Newark,Delaware,19711,United States
+700,Iron Hill Brewery - Wilmingon,620 South Madison Street,,Wilmington,Delaware,19805,United States
+701,Iron Springs Pub & Brewery,765 Center Boulevard,,Fairfax,California,94930,United States
+702,Island Brewing Company,5049 Sixth Street,,Carpinteria,California,93013,United States
+703,Isle of Skye Brewing Company,The Pier,,Isle of Skye,Scotland,,United Kingdom
+704,Issaquah Brewhouse,35-C West Sunset Way,,Issaquah,Washington,98027,United States
+705,Ithaca Beer Company,600 Elmira Road,,Ithaca,New York,14850,United States
+706,Jack Russell Brewing,2380 Larsen Drive,,Camino,California,95709,United States
+707,Jack's Brewing,39176 Argonaut Way,,Fremont,California,94538,United States
+708,Jacob Leinenkugel Brewing Company,1 Jefferson Avenue,,Chippewa Falls,Wisconsin,54729,United States
+709,Jaipur Restaurant and Brewpub,10922 Elm Street,,Omaha,Nebraska,68144,United States
+710,James Page Brewing,1500 Jackson Street,,Minneapolis,Minnesota,55413,United States
+711,Jarre Creek Ranch Brewing,,,Castle Rock,Colorado,,United States
+712,Jasper Ridge Brewery,1075 Country Lane,,Ishpeming,Michigan,49849,United States
+713,Jennings Brewery,Castle Brewery,,Cockermouth,Cumbria,CA13 9NE,United Kingdom
+714,Jever Brewery,,,"Jever, Germany",,,Germany
+715,Jinro Coors Brewing,"Cheongwon Factory: 52, Joongsam-Ri, Hyundo-Myun",,Seoul,,,"Korea, Republic of"
+716,JJ Bitting Brewing,33 Main Street,,Woodbridge,New Jersey,7095,United States
+717,Jobber's Canyon Restaurant & Brewery,,,Omaha,Nebraska,,United States
+718,JoBoy's Brew Pub,87 Doe Run Rd,,Manheim,Pennsylvania,17545,United States
+719,John Harvard's Brew House - Framingham,1 Worcester Road,,Framingham,Massachusetts,1701,United States
+720,John Harvard's Brew House - Harvard Square,33 Dunster Street,,Cambridge,Massachusetts,2138,United States
+721,John Harvard's Brewhouse - Wilmington,,,Wilmington,Delaware,,United States
+722,John Martin sa,rue du cerf,,Genval,,1332,Belgium
+723,Jolly Pumpkin Artisan Ales,3115 Broad Street,,Dexter,Michigan,48130,United States
+724,Joshua Huddy's Brew Pub and Grill,,,Toms River,New Jersey,8753,United States
+725,JT Whitney's Brewpub and Eatery,674 South Whitney Way,,Madison,Wisconsin,53711,United States
+726,Jurupa Valley Brewing,,,Riverside,California,,United States
+727,JW Lees and Co (Brewers) Ltd.,Middleton Junction,,Manchester,Manchester,,United Kingdom
+728,Kaiser-Bru,Oberer Markt 1,,Neuhaus,Bayern,,Germany
+729,Kaiserdom Privatbrauerei Bamberg,Breitckerstrae 9,,Bamberg,Bayern,,Germany
+730,Kalamazoo Brewing,355 East Kalamazoo Avenue,,Kalamazoo,Michigan,49007,United States
+731,Karl Strauss Brewery Gardens - Sorrento Mesa,9675 Scranton Road,,San Diego,California,92121,United States
+732,Karlovacka Pivovara,Dubovac 22,,Karlovac,,0,Croatia
+733,Keesmann Bru,Wunderburg 5,,Bamberg,Bayern,,Germany
+734,Keg Microbrewery & Restaurant,,,Stevens Point,Wisconsin,,United States
+735,Keihan Uji Kotsu,,,Uji,Kinki,,Japan
+736,Kelmer's Brewhouse,,,Santa Rosa,California,,United States
+737,Kentucky Hemp Beer Company,,,Lexington,Kentucky,,United States
+738,Kenya Breweries,PO Box 30161,,Nairobi,,,Kenya
+739,Kessler Brewing,,,Helena,Montana,,United States
+740,King and Barnes,,,Horsham,West Sussex,,United Kingdom
+741,"Kirin Brewery Company, Ltd",,,,,,Japan
+742,Kiuchi Shuzou Goushi Kaisya,"1257, Kounsosu",,Ibaraki,Kanto,,Japan
+743,Kleinbrouwerij de Glazen Toren,Glazentorenweg 11,,Erpe-Mere,Oost-Vlaanderen,,Belgium
+744,Klosterbrauerei Neuzelle,Brauhausplatz 1,,Neuzelle,Brandenburg,,Germany
+745,Klosterbrauerei Weltenburg,Heitzerstrae 2,,Regensburg,Bayern,,Germany
+746,Klosterbru Bamberg,Obere Mhlbrcke 1-3,,Bamberg,Bayern,,Germany
+747,Knig Brauerei,Friedrich-Ebert-Strae 255-263,,Duisburg,Nordrhein-Westfalen,,Germany
+748,Knig Ludwig Schlobrauerei Kaltenberg,Augsburgerstrae 41,,Frstenfeldbruck,Bayern,,Germany
+749,Knigsbacher Brauerei,An der Knigsbach 8,,Koblenz,Rheinland-Pfalz,,Germany
+750,Knigsegger WalderBru,Hauptstrae 6,,Knigseggwald,Baden-Wrttemberg,,Germany
+751,Kona Brewing,75-5629 Kuakini Highway,,Kailua-Kona,Hawaii,96740,United States
+752,KÃ¶stritzer Schwarzbierbrauerei,Heinrich-Schtz-Strae 16,,Bad KÃ¶stritz,ThÃ¼ringen,,Germany
+753,KrÃ¡lovskÃ½ pivovar KruÅ¡ovice,270 53,,KruÅ¡ovice,,,Czech Republic
+754,Krogh's Restaurant and Brewpub,23 White Deer Plaza,,Sparta,New Jersey,7871,United States
+755,Kross Brewing,,,Morrisville,Vermont,,United States
+756,Kuhnhenn Brewing,5919 Chicago Road,,Warren,Michigan,48092,United States
+757,Kulmbacher Brauerei AG,Lichtenfelser Strae 9,,Kulmbach,Bayern,,Germany
+758,Kulmbacher Mnchshof Bru,,,Kulmbach,Bayern,,Germany
+759,La Jolla Brew House,7536 Fay Avenue,,La Jolla,California,92037,United States
+760,La Jolla Brewing,,,La Jolla,California,,United States
+761,Labatt / Keith's Brewery / Oland Breweries,3055 Agricola Street,,Halifax,Nova Scotia,0,Canada
+762,Labatt Ontario Breweries,150 Simcoe Street,,London,Ontario,0,Canada
+763,LaConner Brewing,117 South First Street,,LaConner,Washington,98257,United States
+764,Lafayette Brewing,622 Main Street,,Lafayette,Indiana,47901,United States
+765,Lagunitas Brewing Company,1280 North McDowell Boulevard,,Petaluma,California,94954,United States
+766,Lake Louie Brewing,7556 Pine Road,,Arena,Wisconsin,53503,United States
+767,Lake Placid Pub & Brewery,813 Mirror Lake Drive,,Lake Placid,New York,12946,United States
+768,Lake Superior Brewing,2711 West Superior Street,,Duluth,Minnesota,55806,United States
+769,Lakefront Brewery,1872 North Commerce Street,,Milwaukee,Wisconsin,53212,United States
+770,Lammin Sahti Oy,Liesontie 554,,Lammi,,0,Finland
+771,Lancaster Brewing Co.,302 N. Plum St.,,Lancaster,Pennsylvania,17602,United States
+772,Lanchester Brewing,Durham DH7 0NT,,Durham,Durham,,United Kingdom
+773,Lang Creek Brewry,655 Lang Creek Road,,Marion,Montana,59925,United States
+774,Latrobe Brewing,,,Latrobe,Pennsylvania,,United States
+775,Laughing Dog Brewing,55 Emerald Industrial Park Road,,Ponderay,Idaho,83852,United States
+776,Lazy Magnolia Brewing Company,7030 Roscoe Turner Rd,,Kiln,Mississippi,39556,United States
+777,Le Cheval Blanc,809 Rue Ontario Est,,Montreal,Quebec,0,Canada
+778,Left Coast Brewing,1245 Puerta del Sol,,San Clemente,California,92673,United States
+779,Left Hand Brewing Company,1265 Boston Avenue,,Longmont,Colorado,80501,United States
+780,Legacy Brewing Co.,545 Canal Street,,Reading,Pennsylvania,19602,United States
+781,Legends Brewhouse & Eatery of Green Bay,2840 Shawano Avenue,,Green Bay,Wisconsin,54313,United States
+782,Leinenkugel's Ballyard Brewery,,,Phoenix,Arizona,,United States
+783,Lewis & Clark Brewing Company,939 Getchell Street,,Helena,Montana,59601,United States
+784,Liberty Steakhouse and Brewery,1321 Celebrity Circle,,Myrtle Beach,South Carolina,29577,United States
+785,Licher Privatbrauerei,In den Hardtberggrten,,Lich,Hessen,,Germany
+786,Liefmans Breweries,Wontergemstraat 42,,Dentergem,West-Vlaanderen,,Belgium
+787,Lift Bridge Brewery,,,Stillwater,Minnesota,,United States
+788,Lighthouse Brewing,2 - 836 Devonshire Road,,Victoria,British Columbia,0,Canada
+789,Lightning Boy Brewery,,,Belgrade,Montana,,United States
+790,Limburg Beer Company,500 Williams Street,,Hawkes Bay,,,New Zealand
+791,Lion Brewery Ceylon Ltd.,"No-254, Colombo Road",,Colombo,,,Sri Lanka
+792,Lion Brewery Inc.,700 North Pennsylvania Blvd.,,Wilkes Barre,Pennsylvania,18705,United States
+793,Lion Nathan Australia  Hunter Street,"Level 15, 20 Hunter Street",,Sydney,New South Wales,,Australia
+794,Listermann Brewing Company,1621 Dana Ave.,,Cincinnati,Ohio,45212,United States
+795,Little Apple Brewing,1110 Westloop Center,,Manhattan,Kansas,66502,United States
+796,Little Creatures Brewery,40 Mews Road,,Fremantle,WA,6160,Australia
+797,Live Oak Brewing,3301-B East Fifth Street,,Austin,Texas,78702,United States
+798,Loaf and Stein Brewing,,,Eagle River,Wisconsin,,United States
+799,Lobkowiczk Pivovar Vysok Chlumec,CZ-262 52 Vysok Chlumec,,Vysok Chlumec,,,Czech Republic
+800,Logjam Microbrewery,B-4864 Cty Rd F,,Unity,Wisconsin,54488,United States
+801,Long Trail Brewing Co,Route 4 & 100A,,Bridgewater Corners,Vermont,5035,United States
+802,Long Valley Pub & Brewery,1 Fairmount Road,,Long Valley,New Jersey,7853,United States
+803,Lost Coast Brewery,617 Fourth Street,,Eureka,California,95501,United States
+804,LÃ¶wenbrÃ¤u Brauerei,Nymphenburger StraÃŸe 4,,MÃ¼nchen,Bayern,,Germany
+805,Lwenbru Munich,Toronto ON,,Toronto,Ontario,,Canada
+806,Lwenbru Zrich,Brandschenkestrasse 150,,Zrich,,,Switzerland
+807,Maclay and Co.,,,Clackmannan,Scotland,,United Kingdom
+808,Mad Anthony Brewing,2002 Broadway,,Fort Wayne,Indiana,46802,United States
+809,Mad Crab Restaurant and Brewery,,,Strongsville,Ohio,,United States
+810,Mad River Brewing,195 Taylor Way,,Blue Lake,California,95525,United States
+811,Mad River Brewing Company,101 Taylor Way,,Blue Lake,California,95525,United States
+812,Magic Hat,5 Bartlett Bay Road,,South Burlington,Vermont,5403,United States
+813,Magnolia Pub and Brewery,1398 Haight Street,,San Francisco,California,94117,United States
+814,Main Street Alehouse,333 North Main Avenue,,Gresham,Oregon,97030,United States
+815,Main Street Beer Company #1,,,Richmond,Virginia,,United States
+816,Main Street Brewery,300 North Main Street,,Corona,California,92880,United States
+817,Main Street Brewing,,,Dallas,Texas,,United States
+818,"Main Street Station Casino, Brewery and Hotel",200 North Main Street,,Las Vegas,Nevada,89101,United States
+819,Maisel Bru,Moosstrae 46,,Bamberg,Bayern,,Germany
+820,Malt Shovel Brewery,99 Pyrmont Bridge Road,,Camperdown,New South Wales,,Australia
+821,Mambo Beer,10920 North Port Washington Road,,Mequon,Wisconsin,53092,United States
+822,Mammoth Brewing,24 Lake Mary Road,,Mammoth Lakes,California,93546,United States
+823,Manayunk Brewery and Restaurant,4120 Main Street,,Philadelphia,Pennsylvania,19127,United States
+824,Manhattan Beach Brewing,124 Manhattan Beach Boulevard,,Manhattan Beach,California,90266,United States
+825,Marble Brewery,111 Marble Ave NW,,Albuquerque,New Mexico,87102,United States
+826,Margaritaville Brewing Company,,,Jacksonville,Florida,32209,United States
+827,Marin Brewing,1809 Larkspur Landing Circle,,Larkspur Landing,California,94939,United States
+828,Marine Pub & Brewhouse,5820 Marine Drive,,Burnaby,British Columbia,0,Canada
+829,Maritime Pacific Brewing,1514 NW Leary Way,,Seattle,Washington,98107,United States
+830,Marquette Harbor Brewery and Restaurant,119 South Front Street,,Marquette,Michigan,49855,United States
+831,Marshall Brewing Company,618 S. Wheeling Ave,,Tulsa,Oklahoma,74104,United States
+832,Martini-Brauerei,Klnische Strae 94-104,,Kassel,Hessen,,Germany
+833,Marzoni's Brick Oven & Brewing Co,165 Patchway Road,,Duncansville,Pennsylvania,16635,United States
+834,Mash House Restaurant and Brewery,4150 Sycamore Dairy Road,,Fayetteville,North Carolina,28303,United States
+835,Matilda Bay Brewing,130 Stirling Highway,,North Fremantle,Western Australia,,Australia
+836,Maui Brewing Co.,4405 Honoapiilani Highway #217,,"Lahaina, Maui",Hawaii,96761,United States
+837,Maumee Bay Brewing,27 Broadway,,Toledo,Ohio,43602,United States
+838,McCashin's Brewery & Malthouse,660 Main Road,,Nelson,,,New Zealand
+839,McCoy's Public House and Brewkitchen,4057 Pennsylvania Avenue,,Kansas City,Missouri,64111,United States
+840,McGuire's Irish Pub and Brewery - Pensacola,600 East Gregory Street,,Pensacola,Florida,32501,United States
+841,McKenzie Brew House,451 Wilmington-West Chester Pike,,Glen Mills,Pennsylvania,19342,United States
+842,McMenamins Mill Creek,13300 Bothell-Everett Highway #304,,Mill Creek,Washington,98012,United States
+843,McMullen & Sons,26 Old Cross,,Hertford,Hertfordshire,,United Kingdom
+844,Meantime Brewing Company Limited,2 Penhall Road,,Greenwich,London,SE7 8RX,United Kingdom
+845,Meckatzer Lwenbru,Meckatz 10,,Heimenkirch,Bayern,,Germany
+846,Mehana Brewing,275 East Kawili Street,,Hilo,Hawaii,96720,United States
+847,Mendocino Brewing - Hopland,13351 Highway 101,,Hopland,California,95449,United States
+848,Mendocino Brewing - Saratoga Springs,,,Saratoga Springs,New York,,United States
+849,Mendocino Brewing - Ukiah,1601 Airport Road,,Ukiah,California,95482,United States
+850,Mercury Brewing Company,23 Hayward St.,,Ipswich,Massachusetts,1938,United States
+851,Metropolitan Brewing,"5121 N Ravenswood Ave,",,Chicago,Illinois,60640,United States
+852,Mia and Pia's Pizzeria and Brewhouse,3545 Summers Lane (restaurant),,Klamath Falls,Oregon,97603,United States
+853,Michigan Brewing,1093 Highview Drive,,Webberville,Michigan,48892,United States
+854,Mickey Finn's Brewery,412 North Milwaukee Avenue,,Libertyville,Illinois,60048,United States
+855,Mickey's Brewing Co.,,,Milwaukee,Wisconsin,,United States
+856,Microbrouwerij Achilles,Dulft 9A,,Itegem,Antwerpen,,Belgium
+857,Middle Ages Brewing,120 Wilkinson Street,,Syracuse,New York,13204,United States
+858,Midnight Sun Brewing Co.,8111 Dimond Hook Drive,,Anchorage,Alaska,99507,United States
+859,Mikkeller,"Slien 2, 2. tv",,KÃ¸benhavn,,,Denmark
+860,Milagro Brewery and Grill,,,Bernalillo,New Mexico,,United States
+861,Mill Creek Brewpub,11 North Palouse,,Walla Walla,Washington,99362,United States
+862,Mill Steakhouse,5798 South Rapp Street,,Littleton,Colorado,80120,United States
+863,Miller Brewing,3939 W. Highland Blvd,,Milwaukee,Wisconsin,53208,United States
+864,Millrose Brewing,45 South Barrington Road,,South Barrington,Illinois,60010,United States
+865,Millstream Brewing,835 48th Avenue,,Amana,Iowa,52203,United States
+866,Milly's Tavern,500 Commercial Street,,Manchester,New Hampshire,3102,United States
+867,Milwaukee Ale House,233 North Water Street,,Milwaukee,Wisconsin,53202,United States
+868,Minhas Craft Brewery,1208 14th Avenue,,Monroe,Wisconsin,53566,United States
+869,Minneapolis Town Hall Brewery,1430 Washington Avenue South,,Minneapolis,Minnesota,55454,United States
+870,Minnesota Brewing,,,Saint Paul,Minnesota,,United States
+871,Minocqua Brewing Company,238 Lake Shore Drive,,Minocqua,Wisconsin,54548,United States
+872,Mishawaka Brewing,3703 North Main Street,,Mishawaka,Indiana,46545,United States
+873,Mission Springs Brewing,7160 Oliver Street,,Mission,British Columbia,0,Canada
+874,Mississippi Brewing Co.,,,Utica,New York,11042,United States
+875,Moab Brewery,686 South Main Street,,Moab,Utah,84532,United States
+876,Mogollon Brewing Company,4366 Huntington Dr,,Flagstaff,Arizona,86001,United States
+877,Mohrenbrauerei August Huber,Doktor-Waibel-Strae 2,,Dornbirn,,,Austria
+878,Molson Breweries of Canada,175 Bloor Street East,,Toronto,Ontario,0,Canada
+879,Montana Brewing,113 North Broadway,,Billings,Montana,59101,United States
+880,Monte Carlo Casino and Brewpub,,,Las Vegas,Nevada,89109,United States
+881,Monteith's Brewing Co.,Cnr Turumaha and Herbert St,,Greymouth,,,New Zealand
+882,Moon River Brewing Company,21 W. Bay St.,,Savannah,Georgia,31401,United States
+883,Moonlight Brewing,PO Box 316,,Fulton,California,95439,United States
+884,Moorhouse's Brewery (Burnley),4 Moorhouse Street,,Burnley,Lancashire,,United Kingdom
+885,Moose's Tooth Pub and Pizzeria,3300 Old Seward Highway,,Anchorage,Alaska,99503,United States
+886,Moosehead Breweries,89 Main Street West,,Saint John,New Brunswick,0,Canada
+887,Moosehead Breweries Ltd.,"89 Main Street, PO Box 3100, Station B",,Saint John,New Brunswick,,Canada
+888,Moosejaw Pizza & Dells Brewing Company,110 Wisconsin Dells Parkway South,,Wisconsin Dells,Wisconsin,53965,United States
+889,Mordue Brewery,21A Oak Road,,Wallsend,Tyne and Wear,,United Kingdom
+890,Morland and Co.,,,Abingdon,Oxford,,United Kingdom
+891,Mountain Sun Pub & Brewery,1535 Pearl Street,,Boulder,Colorado,80302,United States
+892,Moylan's Brewery & Restaurant,15 Rowland Way,,Novato,California,94945,United States
+893,moylans Brewing company,,,Novato,California,,United States
+894,Mudshark Brewing,210 Swanson Avenue,,Lake Havasu City,Arizona,86403,United States
+895,Murphy's Wagon Wheel,107 North Lincoln Avenue,,Hastings,Nebraska,68901,United States
+896,Mussel Inn,Onekaka,,Takaka,,,New Zealand
+897,Myanmar Brewery and Distillery,"No. 45, No. 3 Trunk Road",,Yangon,,,Myanmar
+898,Mythos Breweries S.A.,"Industrial Area, Thessaloniki",,,Sindos,570 22,Greece
+899,Namaqua Brewing,,,Loveland,Colorado,,United States
+900,Namibia Breweries,PO Box 206,,Windhoek,,,Namibia
+901,Nebraska Brewing Company,7474 Towne Center Parkway #101,,Papillion,Nebraska,68046,United States
+902,Nelson Brewing,512 Latimer Street,,Nelson,British Columbia,0,Canada
+903,Nethergate Brewery Co Ltd,The Street,,Pentlow,Essex,,United Kingdom
+904,New Albanian Brewing,3312 Plaza Drive,,New Albany,Indiana,47150,United States
+905,New Belgium Brewing,500 Linden Street,,Fort Collins,Colorado,80524,United States
+906,New Century Brewing Company,PO Box 1498,,Boston,Massachusetts,2117,United States
+907,New Glarus Brewing Company,2400 State Highway 69,,New Glarus,Wisconsin,53574,United States
+908,New Holland Brewing Company,66 East Eighth Street,,Holland,Michigan,49423,United States
+909,New River Brewing,2015 Afond Court,,Atlanta,Georgia,30341,United States
+910,New Road Brewhouse,,,Collegeville,Pennsylvania,,United States
+911,New Zealand Breweries Limited,,,,,,New Zealand
+912,Niagara Falls Brewing,6863 Lundy's Lane,,Niagara Falls,Ontario,0,Canada
+913,Nicolet Brewing,,,Florence,Wisconsin,,United States
+914,Nikenjayamochi Kadoya Honten Co.,,,,,,Japan
+915,Ninkasi Brewing,272 Van Buren St,,Eugene,Oregon,97402,United States
+916,Nodding Head Brewpub,1516 Sansom Street,,Philadelphia,Pennsylvania,19102,United States
+917,Nor'Wester Brewery and Public House,,,Portland,Oregon,,United States
+918,Nordsj Grdsbryggeri,,,Motala,,,Sweden
+919,North Coast Brewing Company,455 North Main Street,,Fort Bragg,California,95437,United States
+920,North Country Brewery,141 South Main Street,,Slippery Rock,Pennsylvania,16057,United States
+921,Northwest Brewwrks,,,Kirkland,Washington,,United States
+922,Northwoods Brewpub Grill,3560 Oakwood Mall Drive,,Eau Claire,Wisconsin,54701,United States
+923,NÃ¸gne Ã˜ - Det KompromisslÃ¸se Bryggeri A/S,Gamle Rygene Kraftstasjon,,Grimstad,Lunde,,Norway
+924,O'Fallon Brewery,26 West Industrial Drive,,O'Fallon,Missouri,63366,United States
+925,O'Gara's Bar & Grill,146 Snelling Avenue North,,Saint Paul,Minnesota,55104,United States
+926,O'Grady's Brewery and Pub #1,,,Arlington Heights,Illinois,,United States
+927,O'Hanlon's Brewing Company Ltd.,Great Barton Farm,,Exeter,Devon,,United Kingdom
+928,O'Hara's Brewpub and Restaurant,,,Saint Cloud,Minnesota,,United States
+929,Oak Creek Brewery,2050 Yavapai Dr,,Sedona,Arizona,86336,United States
+930,Oaken Barrel Brewing,50 North Airport Parkway,,Greenwood,Indiana,46143,United States
+931,Oakham Ales,80 Westgate,,Peterborough,Cambridge,,United Kingdom
+932,Oasis Brewery and Restaurant,,,Boulder,Colorado,,United States
+933,Oasis Brewery Annex,,,Boulder,Colorado,,United States
+934,Oconomowoc Brewing,,,Oconomowoc,Wisconsin,,United States
+935,Odell Brewing,800 East Lincoln Avenue,,Fort Collins,Colorado,80524,United States
+936,Oggi's Pizza and Brewing - Vista,425 South Melrose Drive,,Vista,California,92083,United States
+937,Ohio Brewing,,,Niles,Ohio,,United States
+938,Okanagan Spring Brewery,2801 - 27A Avenue,,Vernon,British Columbia,0,Canada
+939,Old City Brewing,603 West 13th Street #1A-345,,Austin,Texas,78701,United States
+940,Old Dominion Brewing Co.,1284 McD Drive,,Dover,Delaware,19901,United States
+941,Old Hat Brewery,114 North Main Street,,Lawton,Michigan,49065,United States
+942,Olde Main Brewing,316 Main Street,,Ames,Iowa,50010,United States
+943,Olde Peninsula Brewpub and Restaurant,200 East Michigan Avenue,,Kalamazoo,Michigan,49007,United States
+944,Oldenberg Brewery,,,Fort Mitchell,Kentucky,,United States
+945,On Tap Bistro & Brewery,,,San Diego,California,,United States
+946,Onion Pub & Brewery,22221 Pepper Road,,Lake Barrington,Illinois,60010,United States
+947,Onopa Brewing,,,Milwaukee,Wisconsin,,United States
+948,Orchard Street Brewery,,,Bellingham,Washington,,United States
+949,Oregon Trader Brewing,,,Albany,Oregon,,United States
+950,Oregon Trail Brewery,341 SW Second Street,,Corvallis,Oregon,97333,United States
+951,Oriental Brewery,,,,,,"Korea, Republic of"
+952,Original Basil T's,183 Riverside Avenue,,Red Bank,New Jersey,7701,United States
+953,Orkney Brewery,Quoyloo,,Orkney,Scotland,,United Kingdom
+954,Orlando Brewing,1301 Atlanta Avenue,,Orlando,Florida,32806,United States
+955,Orlio Organic,5 Bartlett Bay Road,,South Burlington,Vermont,5403,United States
+956,Oskar Blues Grill and Brew,303 Main Street,,Lyons,Colorado,80540,United States
+957,Ostankinskij Pivovarennij Zavod,Ogorodnyj Pr. 20,,Moskva,Moskva,,Russia
+958,Ottakringer Brauerei AG,Ottakringerstrasse 91,,Wien,,,Austria
+959,Otter Creek Brewing & Wolaver's Organic Ales,793 Exchange Street,,Middlebury,Vermont,5753,United States
+960,Otto's Pub and Brewery,2105 N. Atherton St.,,State College,Pennsylvania,16803,United States
+961,Oy Sinebrychoff AB,Sinebrychoffinaukio 1,,Kerava,,,Finland
+962,Oyster Bar Bistro and Brewery,,,Fort Wayne,Indiana,46825,United States
+963,Pabst Brewing Company,PO Box 1661,,San Antonio,Texas,78296,United States
+964,Pacific Beach Brewhouse,,,Pacific Beach,California,,United States
+965,Pacific Coast Brewing,906 Washington Street,,Oakland,California,94607,United States
+966,Pacific Rim Brewing,9832 14th Avenue SW,,Seattle,Washington,98106,United States
+967,Palm Breweries,Steenhuffeldorp 3,,Steenhuffel,Brabant,1840,Belgium
+968,Palmetto Brewing,289 Huger Street,,Charleston,South Carolina,29403,United States
+969,Panther Brewing Company,Utica NY 13502,,Utica,New York,13502,United States
+970,Paper City Brewing Company,108 Cabot St.,,Holyoke,Massachusetts,1040,United States
+971,Park City Brewing,375 West 910 South,,Heber City,Utah,84032,United States
+972,Paulaner,,,Munich,,,Germany
+973,Pearl Street Brewery,1401 Saint Andrew Street,,La Crosse,Wisconsin,54603,United States
+974,Pelican Pub & Brewery,33180 Cape Kiwanda Drive,,Pacific City,Oregon,97135,United States
+975,Penn Brewery,800 Vinial St.,,Pittsburgh,Pennsylvania,15212,United States
+976,Pennichuck Brewing Company,"127 Elm St., Unit C",,Milford,New Hampshire,3055,United States
+977,Pennsylvania Brewing,800 Vinial Street,,Pittsburgh,Pennsylvania,15212,United States
+978,Pete's Brewing,14800 San Pedro Avenue,,San Antonio,Texas,78232,United States
+979,Pete's Place,120 SW Eighth Street,,Krebs,Oklahoma,74554,United States
+980,PH Woods Diner and Brewery,23060 Alessandro Boulevard,,Moreno Valley,California,92553,United States
+981,Philadelphia Brewing Co,2423 Amber St,,Philadelphia,Pennsylvania,19125,United States
+982,Phoenix Beverages Ltd,,,Pont Fer,Phoenix,,Mauritius
+983,Piece,1927 West North Avenue,,Chicago,Illinois,60622,United States
+984,Pike Pub and Brewery,1415 First Avenue,,Seattle,Washington,98101,United States
+985,Pinehurst Village Brewery,,,Aberdeen,North Carolina,,United States
+986,Pinnacle Peak Patio Steakhouse & Microbrewery,10426 East Jomax Road,,Scottsdale,Arizona,85255,United States
+987,Pint's Pub Brewery and Freehouse,211 West 13th Avenue,,Denver,Colorado,80204,United States
+988,Pivara Skopje,,,Skopje,,,"Macedonia, the Former Yugoslav Republic of"
+989,Pivovar Herold Beznice,Nadrazni ul.,,Beznice,,,Czech Republic
+990,Pivovar Hradec Krlov,,,Hradec Krlov,,,Czech Republic
+991,Pivovar Klter Hradit,CZ-294 15 Klter Hradit nad Jizerou,,Klter Hradit nad Jizerou,,,Czech Republic
+992,Pivovar Nchod,Dobroovsk 130,,Nchod,,,Czech Republic
+993,Pivovar Pardubice a.s.,Palackho 250,,Pardubice,,,Czech Republic
+994,Pivovar Podkov,Dkansk 201/10,,Praha,,,Czech Republic
+995,Pivovar Starobrno,Hlinky 12,,Brno,,,Czech Republic
+996,Pivovar v Hurbanove,Novozamocka Cesta 2,,Hurbanovo,,,Slovakia
+997,Pivovar Velk Popovice,Ringhofferova 1,,Velk Popovice,,,Czech Republic
+998,Pivovary Staropramen,Nadrazni 84,,Praha,,150 54,Czech Republic
+999,Pivzavod Baltika /,"Promzona Parnas-4, 6 Proyezd, 9 Kvartal",,Sankt-Peterburg,Sankt-Peterburg,,Russia
+1000,Pizza Beer,5N404 Harvest Lane,,St Charles,Illinois,60175,United States
+1001,Pizza Port Brewing - Solana Beach,135 North Highway 101,,Solana Beach,California,92075,United States
+1002,Pizzeria Uno Chicago Grill & Brewery,61 US Highway 1 South,,Metuchen,New Jersey,8840,United States
+1003,Platte Valley Brewing,14 East Railroad,,Kearney,Nebraska,68847,United States
+1004,Pleasanton Main Street Brewery,830 Main Street,,Pleasanton,California,94566,United States
+1005,Plzesk Prazdroj,U Prazdroje 7,,Plze,,,Czech Republic
+1006,Plzesk Prazdroj Pivovar Radegast,CZ-739 51 Noovice,,Noovice,,,Czech Republic
+1007,Pokka Beer Works,,,Nagoya,Chubu,,Japan
+1008,Pony Express Brewing,,,Olathe,Kansas,,United States
+1009,Port Brewing Company,155 Mata Way Suite 104,,San Marcos,California,92069,United States
+1010,Port Washington Brewing,,,Port Washington,Wisconsin,53074,United States
+1011,Porterhouse Restaurant and Brewpub,5775 Lower Mountain Road,,Lahaska,Pennsylvania,18931,United States
+1012,Portland Brewing,2730 NW 31st Avenue,,Portland,Oregon,97210,United States
+1013,Portsmouth Brewery,56 Market Street,,Portsmouth,New Hampshire,3801,United States
+1014,Prairie Rock Brewing - Elgin,127 South Grove Avenue,,Elgin,Illinois,60120,United States
+1015,Prescott Brewing Company,130 W Gurley St,,Prescott,Arizona,86301,United States
+1016,Pripps Ringnes Bryggerier,,,Bromma,,,Sweden
+1017,Privat-Brauerei Schmucker Ober-Mossau KG,,,Mossautal,Hessen,,Germany
+1018,Privatbrauerei Bolten,Rheydter-Strae 138,,Korschenbroich,Nordrhein-Westfalen,,Germany
+1019,Privatbrauerei Erdinger Weissbru,Franz-Brombach-Strae 1-20,,Erding,Bayern,,Germany
+1020,Privatbrauerei Frankenheim,Wielandstrae 14-16,,Dsseldorf,Nordrhein-Westfalen,,Germany
+1021,Privatbrauerei Gaffel,Eigelstein 41,,Kln,Nordrhein-Westfalen,,Germany
+1022,Privatbrauerei Hofmhl,Hofmhlstrae 10,,Eichsttt,Bayern,,Germany
+1023,Private Weissbierbrauerei G. Schneider & Sohn GmbH,Emil-Ott-Strasse 1-5,,Kelheim,,93309,Germany
+1024,Privater Brauereigasthof Greifenklau,Laurenziplatz 20,,Bamberg,Bayern,,Germany
+1025,Pug Ryan's Steakhouse and Brewery,104 Village Place,,Dillon,Colorado,80435,United States
+1026,Pugsley Brewing LLC,,,Portland,Maine,,United States
+1027,Pumphouse Brewery & Restaurant,540 Main Street,,Longmont,Colorado,80501,United States
+1028,Pumphouse Pizza and Brewing,,,Lake Delton,Wisconsin,,United States
+1029,"Pyramid Alehouse, Brewery and Restaurant - Berkeley",901 Gilman Street,,Berkeley,California,94710,United States
+1030,"Pyramid Alehouse, Brewery and Restaurant - Seattle",1201 First Avenue South,,Seattle,Washington,98134,United States
+1031,Pyramid Ales Brewery,91 S Royal Brougham Way,,Seattle,Washington,98134,United States
+1032,Qingdao Brewery,"Hongkong Road, Central",,Qingdao,Shandong,,China
+1033,Quigleys,257 Willbrook Blvd,,Pawleys Island,South Carolina,29585,United States
+1034,R&B; Brewing,54 East Fourth Avenue,,Vancouver,British Columbia,0,Canada
+1035,Raccoon Lodge and Brewpub / Cascade Brewing,7424 SW Beaverton-Hillsdale Hwy,,Portland,Oregon,97225,United States
+1036,Raccoon River Brewing,200 North Tenth Street,,Des Moines,Iowa,50309,United States
+1037,Radeberger Exportbierbrauerei,Dresdener Strae 2,,Radeberg,Sachsen,,Germany
+1038,Rahr & Sons Brewing Company,701 Galveston Ave,,Fortworth,Texas,76104,United States
+1039,Rail House Restaurant and Brewpub,2029 Old Peshtigo Road,,Marinette,Wisconsin,54143,United States
+1040,Railway Brewing,,,Anchorage,Alaska,,United States
+1041,Ramapo Valley Brewery,143 Highway 59 Building 6,,Hillburn,New York,10931,United States
+1042,Randy's Fun Hunters Brewery Restaurant and Banquet Center,841 East Milwaukee Street,,Whitewater,Wisconsin,53190,United States
+1043,RCH Brewery,West Hewish,,Weston-super-Mare,Somerset,,United Kingdom
+1044,Real Ale Brewing Company,231 San Saba Court,,Blanco,Texas,78606,United States
+1045,ReaperAle,,,Foothill Ranch,California,,United States
+1046,Red Kettle Brewing,,,Encinitas,California,,United States
+1047,Red Lodge Ales,417 North Broadway,,Red Lodge,Montana,59068,United States
+1048,Red Oak Brewery,6901 Konica Drive,,Whitsett,North Carolina,27377,United States
+1049,Red Star Brewery & Grille,101 Ehalt St.,,Greensburg,Pennsylvania,15601,United States
+1050,RedFish New Orleans Brewhouse,2027 13th Street,,Boulder,Colorado,80302,United States
+1051,Redhook Ale Brewery,,,Seattle,Washington,,United States
+1052,Remington Watson Smith Brewing,,,Waukesha,Wisconsin,,United States
+1053,Restaurant Isarbru,Kreuzeckstrae 23,,Pullach im Isartal,Bayern,,Germany
+1054,Revolution Brewing LLC,2323 N Milwaukee Ave,,Chicago,Illinois,60647,United States
+1055,Richbrau Brewing Company,1214 East Cary St,,Richmond,Virginia,23219,United States
+1056,Ridgeway Brewing,6 Chapel Close,,South Stoke,Oxford,,United Kingdom
+1057,Rio Salado Brewing,,,Tempe,Arizona,,United States
+1058,River Horse Brewing Company,80 LAMBERT LANE,,Lambertville,New Jersey,8530,United States
+1059,River West Brewing,,,Chicago,Illinois,,United States
+1060,Rivers Effortless Dining,,,Salt Lake City,Utah,84121,United States
+1061,Rivertowne Pour House,312 Center Rd,,Monroeville,Pennsylvania,15146,United States
+1062,Rock Art Brewery,254 Wilkins Street,,Morrisville,Vermont,5661,United States
+1063,Rock Bottom Restaurant & Brewery - Chicago,1 West Grand Avenue,,Chicago,Illinois,60610,United States
+1064,Rock Bottom Restaurant & Brewery - Denver,1001 16th Street #A-100,,Denver,Colorado,80202,United States
+1065,Rock Bottom Restaurant & Brewery - Milwaukee,740 North Plankinton Avenue,,Milwaukee,Wisconsin,53203,United States
+1066,Rock Bottom Restaurant & Brewery - Minneapolis,800 LaSalle Plaza,,Minneapolis,Minnesota,55402,United States
+1067,Rock Bottom Restaurant & Brewery - San Jose,1875 South Bascom Avenue #700,,Campbell,California,95008,United States
+1068,Rock Bottom Restaurant & Brewery - South Denver,9627 East County Line Road,,Englewood,Colorado,80112,United States
+1069,Rocky River Brewing,21290 Center Ridge Road,,Rocky River,Ohio,44116,United States
+1070,Rockyard Brewing,880 West Castleton Road,,Castle Rock,Colorado,80109,United States
+1071,Roffey Brewery,,,Holland,Michigan,,United States
+1072,Rogue Ales,2320 SE OSU Drive,,Newport,Oregon,97365,United States
+1073,ronald mengerink,pastoor de katerstraat 24,,baarle-hertog,,2387,Belgium
+1074,Roost Brewery,200 East Campbell Avenue,,Campbell,California,95008,United States
+1075,Roots Organic Brewing,1520 SE Seventh Avenue,,Portland,Oregon,97214,United States
+1076,Ross Valley Brewing,,,Fairfax,California,,United States
+1077,Rothaus Brauerei,,,Hartford,Wisconsin,,United States
+1078,Route 66 Brewery,,,Saint Louis,Missouri,,United States
+1079,Routh Street Brewery and Grille,,,Dallas,Texas,75201,United States
+1080,Rowland's Calumet Brewery,25 North Madison St,,Chilton,Wisconsin,53014,United States
+1081,Roy Pitz Brewing Company,140 North Third Street,,Chambersburg,Pennsylvania,17201,United States
+1082,Rubicon Brewing,2004 Capitol Avenue,,Sacramento,California,95814,United States
+1083,Ruppaner-Brauerei,Hoheneggstrae 41-51,,Konstanz,Baden-Wrttemberg,,Germany
+1084,Rush River Brewing,990 Antler Court,,River Falls,Wisconsin,54022,United States
+1085,Russell Brewing,202 - 13018 80th Avenue,,Surrey,British Columbia,0,Canada
+1086,Russian River Brewing,725 Fourth Street,,Santa Rosa,California,95404,United States
+1087,S.A. Damm,,,Barcelona,,,Spain
+1088,SA Brain & Co. Ltd.,Crawshay Street,,Cardiff,Wales,,United Kingdom
+1089,"Sabmiller India,",SKOL Breweries Limited,,Bangalore,Karnataka,560022,India
+1090,Sacramento Brewing Company,2713 El Paseo Lane,,Sacramento,California,95821,United States
+1091,Saint Arnold Brewing,2522 Fairway Park Drive,,Houston,Texas,77092,United States
+1092,Saint Louis Brewery / Schlafy Tap Room,2100 Locust Street,,Saint Louis,Missouri,63103,United States
+1093,Saint Somewhere Brewing Company,1441 Savannah Ave Unit E,,Tarpon Springs,Florida,34689,United States
+1094,Saku lletehas,Tallinna mnt.2,,Saku,,,Estonia
+1095,Salado Creek Brewing Company,,,San Antonio,Texas,,United States
+1096,Salopian Brewery,67 Mytton Oak Road,,Shrewsbury,Shropshire,,United Kingdom
+1097,Salt Lake Brewing - Squatters,147 West Broadway,,Salt Lake City,Utah,84101,United States
+1098,"Sam Choy's Breakfast, Lunch, Crab & Big Aloha Brewery",580 North Nimitz Highway,,Honolulu,Hawaii,96817,United States
+1099,Samuel Smith Old Brewery (Tadcaster),High Street,,Tadcaster,North Yorkshire,,United Kingdom
+1100,San Diego Brewing,10450-L Friars Road,,San Diego,California,92120,United States
+1101,San Marcos Brewery & Grill,1080 West San Marcos Boulevard,,San Marcos,California,92069,United States
+1102,San Miguel Corporation,PO Box 271,,Manila,,,Philippines
+1103,Sand Creek Brewing Company,320 Pierce St,,Black River Falls,Wisconsin,54615,United States
+1104,SandLot Brewery at Coors Field,2145 Blake Street,,Denver,Colorado,80205,United States
+1105,Sanford's Grub and Pub,5 East Alger Street,,Sheridan,Wyoming,82801,United States
+1106,Santa Barbara Brewing,501 State Street,,Santa Barbara,California,93101,United States
+1107,Santa Cruz Brewing,,,Santa Cruz,California,,United States
+1108,Santa Fe Brewing Company,35 Fire Place,,Santa Fe,New Mexico,87508,United States
+1109,Santa Rosa Brewing,,,Santa Rosa,California,,United States
+1110,Sapporo Breweries - Chuo,"10-1 Ginza 7-chome, Chuo-ku",,Tokyo,Kanto,,Japan
+1111,Sarah Hughes Brewery,Dudley DY3 1JE,,Dudley,West Midlands,,United Kingdom
+1112,Saxer Brewing,,,Lake Oswego,Oregon,,United States
+1113,Scharer's Little Brewery,180 Old Hume Hwy,,Picton,NSW,2571,Australia
+1114,Schlobrauerei Reckendorf,Mhlweg 18,,Reckendorf,Bayern,,Germany
+1115,Schloss Eggenberg,Eggenberg 1,,Vorchdorf,,,Austria
+1116,Schlossbru,Oberdorferstrae 9,,Dornbirn,,,Austria
+1117,SchÃ¶fferhofer,DarmstÃ¤dter Landstrasse 185,,Frankfurt/Main,Hessen,60598,Germany
+1118,Schooner Brewery,,,Dallas,Texas,,United States
+1119,Schooner's Grille & Brewery,4250 Lone Tree Way,,Antioch,California,94531,United States
+1120,Schussenrieder Erlebnisbrauerei,Wilhelm-Schussen-Strae 12,,Bad Schussenried,Baden-Wrttemberg,,Germany
+1121,Scotch Irish Brewing,40 Bennett Street,,Carleton Place,Ontario,0,Canada
+1122,Scottish & Newcastle Breweries,Gallowgate,,Newcastle-upon-Tyne,Northumberland,,United Kingdom
+1123,Scottish & Newcastle PLC,33 Ellersly Road,,Edinburgh,Scotland,,United Kingdom
+1124,Scuttlebutt Brewing,1524 West Marine View Drive,,Everett,Washington,98201,United States
+1125,Sea Dog Brewing Company,26 Front Street,,Bangor,Maine,4401,United States
+1126,Seabright Brewery,519 Seabright Avenue #107,,Santa Cruz,California,95062,United States
+1127,Second Street Brewery,1814 Second Street,,Santa Fe,New Mexico,87505,United States
+1128,Selin's Grove Brewing Co.,121 North Market St.,,Selinsgrove,Pennsylvania,17870,United States
+1129,Sequoia Brewing Conoabt,777 East Olive Avenue,,Fresno,California,93728,United States
+1130,Shaftebury Brewing,,,Delta,British Columbia,,Canada
+1131,Sharktooth Brewing,,,Kahului,Hawaii,,United States
+1132,Shepherd Neame,17 Court Street,,Faversham,Kent,,United Kingdom
+1133,Sherlock's Home,,,Minnetonka,Minnesota,,United States
+1134,Ship Inn Brewpub,61 Bridge Street,,Milford,New Jersey,8848,United States
+1135,Shipwrecked Brew Pub,7791 Egg Harbor Road,,Egg Harbor,Wisconsin,54209,United States
+1136,Shipyard Brewing - Portland,86 Newbury Street,,Portland,Maine,4101,United States
+1137,Shmaltz Brewing Company,,,San Francisco,California,,United States
+1138,Shmaltz Enterprises,3435 Cesar Chavez #227,,San Francisco,California,94110,United States
+1139,Short's Brewing Company,121 N. Bridge Street,,Bellaire,Michigan,49615,United States
+1140,Sierra Leone Brewery,PO Box 721,,Freetown,Sierra Leone,,Sierra Leone
+1141,Sierra Madre Brewing Co.,Av. Insurgentes 3915,,Monterrey,Nuevo Leon,64630,Mexico
+1142,Sierra Nevada Brewing Co.,1075 East 20th Street,,Chico,California,95928,United States
+1143,Siletz Roadhouse & Brewery,243 North Gaither Street,,Siletz,Oregon,97380,United States
+1144,Silver Gulch Brewing Company,2195 Old Steese Highway,,Fox,Alaska,99708,United States
+1145,Silverado Brewing,3020 St. Helena Highway North,,Saint Helena,California,94574,United States
+1146,Simmerberg Brusttt und Taferne,Ellhofer Strae 2,,Simmerberg,Bayern,,Germany
+1147,Sioux Falls Brewing,,,Sioux Falls,South Dakota,,United States
+1148,Six Rivers Brewery,1300 Central Avenue,,McKinleyville,California,95519,United States
+1149,Sixpoint Craft Ales,40 Van Dyke St,,Brooklyn,New York,11231,United States
+1150,Ska Brewing Company,545 Turner Drive,,Durango,Colorado,81301,United States
+1151,Skagit River Brewing,404 South Third Street,,Mount Vernon,Washington,98273,United States
+1152,Skol Breweries,Uran,,Maharashtra,,,India
+1153,Slab City Brewing,,,Bonduel,Wisconsin,,United States
+1154,Sleeman Brewing & Malting,551 Clair Road West,,Guelph,Ontario,0,Canada
+1155,Sleeping Lady Brewing Company,717 W. 3rd Ave,,Anchorage,Alaska,99501,United States
+1156,Slottskllans Bryggeri,Mrstagatan 10-12,,Uppsala,,,Sweden
+1157,Sly Fox Brewhouse and Eatery - Phoenixville,519 Kimberton Road,,Phoenixville,Pennsylvania,19460,United States
+1158,Sly Fox Brewhouse and Eatery - Royersford,312 North Lewis Road,,Royersford,Pennsylvania,19468,United States
+1159,Smoky Mountain Brewing,424 South Gay Street,,Knoxville,Tennessee,37902,United States
+1160,Smuttynose Brewing Co.,225 Heritage Ave,,Portsmouth,New Hampshire,3801,United States
+1161,Snake River Brewing,265 S. Millward,,Jackson,Wyoming,83001,United States
+1162,Snipes Mountain Microbrewery & Restaurant,905 Yakima Valley Highway,,Sunnyside,Washington,98944,United States
+1163,Snowshoe Brewing - Sonora,,,Sonora,California,,United States
+1164,Sockeye,3019 N Cole Rd,,Boise,Idaho,83704,United States
+1165,Socorro Springs Brewing,1012 North California Street,,Socorro,New Mexico,87801,United States
+1166,Sonoran Brewing Company,10426 East Jomax Road,,Scottsdale,Arizona,85255,United States
+1167,South Australian Brewing,107 Port Road,,Adelaide,South Australia,,Australia
+1168,South County Brewing Co.,104 Mill St.,,Fawn Grove,Pennsylvania,17321,United States
+1169,South Shore Brewery,808 West Main Street,,Ashland,Wisconsin,54806,United States
+1170,Southampton Publick House,40 Bowden Square,,Southampton,New York,11968,United States
+1171,Southend Brewery and Smokehouse - Charleston,161 East Bay Street,,Charleston,South Carolina,29401,United States
+1172,Southern Star Brewing Company,1207 N. FM 3083 E.,,Conroe,Texas,77303,United States
+1173,Southern Tier Brewing Co,2051A Stoneman Circle,,Lakewood,New York,14750,United States
+1174,357,,,,,,
+1175,Spanish Peaks Brewing,Polson MT 59860,,Polson,Montana,,United States
+1176,Spaten-Franziskaner-BrÃ¤u,Marsstrae 46-48,,MÃ¼nchen,Bayern,,Germany
+1177,Speakeasy Ales and Lagers,1195-A Evans Avenue,,San Francisco,California,94124,United States
+1178,Spilker Ales,300 West Fourth Street,,Cortland,Nebraska,68331,United States
+1179,Spoetzl Brewery,603 East Brewery Street,,Shiner,Texas,77984,United States
+1180,Sports City Cafe & Brewery,,,La Jolla,California,,United States
+1181,Sprecher Brewing,701 West Glendale Avenue,,Glendale,Wisconsin,53209,United States
+1182,Spring House Brewing Company,2519 Main St.,,Conestoga,Pennsylvania,17516,United States
+1183,Springfield Brewing,305 South Market Street,,Springfield,Missouri,65806,United States
+1184,St John Brewers,,,St. John,Virgin Islands,,United States
+1185,St Peter's Brewery,St Peter's Hall,,Bungay,Suffolk,,United Kingdom
+1186,St. Austell Brewery,63 Trevarthian Road,,St. Austell,Cornwall,PL25 4BY,United Kingdom
+1187,St. Francis Abbey Brewery,,,Kilkenny,,,Ireland
+1188,St. GeorgenBru Modschiedler KG,Marktstrae 12,,Buttenheim,Bayern,,Germany
+1189,St. James's Gate Brewery,,,Dublin,,,Ireland
+1190,St. Stan's Brewing Co.,821 L Street,,Modesto,California,95354,United States
+1191,Staatliches HofbrÃ¤uhaus in MÃ¼nchen,HofbrÃ¤uallee 1,,MÃ¼nchen,Bayern,,Germany
+1192,Stadsbrouwerij De Hemel,Franseplaats 1,,Nijmegen,,0,Netherlands
+1193,Standing Stone Brewing Company,101 Oak Street,,Ashland,Oregon,97520,United States
+1194,Steam Whistle Brewery,255 Bremner Road,,Toronto,ON,M5V 3M9,Canada
+1195,Steamworks,375 Water Street,,Vancouver,British Columbia,V6B 5C6,Canada
+1196,Steamworks Brewing - Durango,801 East Second Avenue,,Durango,Colorado,81301,United States
+1197,Steel Brewing,,,Longview,Texas,,United States
+1198,Steinfels Back & Brau,,,Zrich,,,Switzerland
+1199,Steve and Clark's Brew Pub and Sausage Co. #2,,,Durham,North Carolina,,United States
+1200,Stevens Point Brewery,2617 Water Street,,Stevens Point,Wisconsin,54481,United States
+1201,Stewart's Brewing,219 Governor's Square,,Bear,Delaware,19701,United States
+1202,Stieglbrauerei zu Salzburg GmbH,KendlerstraÃŸe 1,,Salzburg,,,Austria
+1203,Stillwater Artisanal Ales,,,Baltimore,Maryland,,United States
+1204,Stone Brewing Co.,1999 Citracado Parkway,,Escondido,California,92029,United States
+1205,Stone Cellar Brewpub & Restaurant,1004 South Olde Oneida,,Appleton,Wisconsin,54915,United States
+1206,Stone City Brewing,,,Solon,Iowa,,United States
+1207,Stone Coast Brewing - Portland,23 Rice Street,,Portland,Maine,4103,United States
+1208,Stonecutters Brewhouse,14 N Main St.,,Barre,Vermont,5641,United States
+1209,Stoney Creek Brewing Company,237 Joseph Campau,,Detroit,Michigan,48207,United States
+1210,Storm Brewing,310 Commercial Drive,,Vancouver,British Columbia,V5L 3V6,Canada
+1211,Stoudt's Brewery,2800 North Reading Road,,Adamstown,Pennsylvania,19501,United States
+1212,Stout Brothers Public House,,,Milwaukee,Wisconsin,,United States
+1213,Strangford Lough Brewing Company Ltd,Braidleigh Lodge 22 Shore Road,,Killyleagh,County Down,BT30 9UE,Ireland
+1214,Straub Brewery,303 Sorg Street,,St. Mary's,Pennsylvania,15857,United States
+1215,Stroh Brewery Company,,,Tampa,Florida,,United States
+1216,Sturgeon Bay Brewing,,,Sturgeon Bay,Wisconsin,54235,United States
+1217,Stuttgarter Hofbru,Bblinger Strae 104,,Stuttgart,Baden-Wrttemberg,,Germany
+1218,Sudwerk Privatbrauerei Hbsch,2001 Second Street,,Davis,California,95616,United States
+1219,Sullivan's Black Forest Brew Haus & Grill,281 Heinlein Strasse,,Frankenmuth,Michigan,48734,United States
+1220,Summit Brewing,910 Montreal Circle,,Saint Paul,Minnesota,55102,United States
+1221,Surly Brewing,4811 Dusharme Drive,,Brooklyn Center,Minnesota,55429,United States
+1222,Swan Brewery,25 Baile Road,,Canning Vale,Western Australia,,Australia
+1223,Sweet Water Tavern and Brewery,45980 Waterview Plaza,,Sterling,Virginia,20121,United States
+1224,Sweetwater Brewing - Atlanta,195 Ottley Drive,,Atlanta,Georgia,30324,United States
+1225,Sweetwater Brewing - Casper,,,Casper,Wyoming,,United States
+1226,Sweetwater Tavern - Centreville,14250 Sweetwater Lane,,Centreville,Virginia,20121,United States
+1227,Switchback Brewing Co,PO Box 4210,,Burlington,Vermont,5406,United States
+1228,T&R; Theakston,The Brewery,,Ripon,North Yorkshire,,United Kingdom
+1229,"T-Bonz Gill, Grill and Brewery",1028 Johnny Dodds Boulevard,,Mount Pleasant,South Carolina,29464,United States
+1230,Tabernash Brewing,,,Longmont,Colorado,,United States
+1231,Tablerock,705 Fulton St,,Boise,Idaho,83702,United States
+1232,Tailgate Beer,6648 Reservoir Ln,,San Diego,California,92155,United States
+1233,Taiwan Tobacco and Wine Monopoly Board,Taipei,,Taipei,,,"Taiwan, Province of China"
+1234,Tampa Bay Brewing,1812 North 15th Street,,Tampa,Florida,33605,United States
+1235,Tap Room Brewing Company,,,La Crosse,Wisconsin,,United States
+1236,Taylor Brewing,717 East Butterfield Road,,Lombard,Illinois,60148,United States
+1237,Taylor's Crossing Brewing,1025 Marine Drive,,North Vancouver,British Columbia,0,Canada
+1238,Taylor's Restaurant and Brewery,,,San Diego,California,,United States
+1239,Tempo,,,,,,Israel
+1240,Tenaya Creek Restaurant and Brewery,3101 North Tenaya Way,,Las Vegas,Nevada,89128,United States
+1241,Tennent Caledonian Brewery,161 Duke Street,,Glasgow,Scotland,,United Kingdom
+1242,Terminal Gravity Brewing,803 SE School Street,,Enterprise,Oregon,97828,United States
+1243,Terrapin Beer Company,196 Alps Road,,Athens,Georgia,30606,United States
+1244,The Alchemist,23 South Main Street,,Waterbury,Vermont,5676,United States
+1245,The Blind Bat Brewery LLC,420 Harrison Drive,,Centerport,New York,11721,United States
+1246,The Bruery,715 Dunn Way,,Placentia,California,92870,United States
+1247,The Cambridge House,357 Salmon Brook Street,,Granby,Connecticut,6035,United States
+1248,The Church Brew Works,3525 Liberty Avenue,,Pittsburgh,Pennsylvania,15201,United States
+1249,The Hop Yard,Bollinger Canyon Rd.,,San Ramon,California,,United States
+1250,The Livery,190 5th Street,,Benton Harbor,Michigan,49022,United States
+1251,The Lost Abbey,155 Mata Way Suite 104,,San Marcos,California,92069,United States
+1252,The Narragansett Brewing Company,60 Ship Street,,Providence,Rhode Island,2903,United States
+1253,The Round Barn Winery & Brewery,10983 Hills Road,,Baroda,Michigan,49101,United States
+1254,Third Street Ale Works,610 Third Street,,Santa Rosa,California,95404,United States
+1255,Thirsty Dog Brewing,529 Grant St. Suite B,,Akron,Ohio,44311,United States
+1256,ThirstyBear Brewing,661 Howard Street,,San Francisco,California,94105,United States
+1257,Thomas Creek Brewery,2054 Piedmont Highway,,Greenville,South Carolina,29605,United States
+1258,Thomas Hooker Brewing,16 Tobey Road,,Bloomfield,Connecticut,6002,United States
+1259,Thomas Kemper Brewing,91 South Royal Brougham,,Seattle,Washington,98134,United States
+1260,Three Floyds Brewing,9750 Indiana Parkway,,Munster,Indiana,46321,United States
+1261,Three Needs Brewery and Taproom,207 College Street,,Burlington,Vermont,5401,United States
+1262,Thunder Canyon Brewery,7401 North La Cholla Boulevard,,Tucson,Arizona,85741,United States
+1263,Thunderhead Brewery,18 East 21st Street,,Kearney,Nebraska,68847,United States
+1264,Thunderhead Brewery #2,120 East Third Street,,Grand Island,Nebraska,68801,United States
+1265,Tied House Cafe & Brewery - San Jose,65 North San Pedro,,San Jose,California,95110,United States
+1266,Timmermans,Kerkstraat 11,,Itterbeek,,1701,Belgium
+1267,Tin Whistle Brewing,954 West Eckhardt Avenue,,Penticton,British Columbia,0,Canada
+1268,Titletown Brewing,200 Dousman Street,,Green Bay,Wisconsin,54303,United States
+1269,Tivoli Brewing,,,Denver,Colorado,,United States
+1270,Tollemache and Cobbold Brewery,,,Ipswich,Suffolk,,United Kingdom
+1271,Tommyknocker Brewery and Pub,1401 Miner Street,,Idaho Springs,Colorado,80452,United States
+1272,Tomos Watkin and Sons Ltd.,"Unit 3, Century Park, Valley Way",,Swansea,Wales,,United Kingdom
+1273,Tongerlo,,,Westerlo,Antwerp,,Belgium
+1274,Tooheys,29 Nyrang Street,,Sydney,New South Wales,,Australia
+1275,Tooth's,,,Sydney,New South Wales,,Australia
+1276,Top of the Hill Restaurant and Brewery,101 East Franklin Street,,Chapel Hill,North Carolina,27514,United States
+1277,Trade Winds Brewing,,,Wailuku,Hawaii,,United States
+1278,Traffic Jam and Snug,4268 Second Street,,Detroit,Michigan,48201,United States
+1279,Trailhead Brewing Company,921 South Riverside Drive,,Saint Charles,Missouri,63301,United States
+1280,Trap Rock Restaurant and Brewery,279 Springfield Avenue,,Berkeley Heights,New Jersey,7922,United States
+1281,Traquair House Brewery,Innerleithen EH44 6PW,,Innerleithen,Scotland,,United Kingdom
+1282,Trinity Brewing Company,1446 Garden of the Gods,,Colorado Springs,Colorado,80907,United States
+1283,Triple Rock Brewery,1920 Shattuck Avenue,,Berkeley,California,94704,United States
+1284,Triumph Brewing of New Hope,400 Union Square,,New Hope,Pennsylvania,18938,United States
+1285,Triumph Brewing of Princeton,138 Nassau Street,,Princeton,New Jersey,8542,United States
+1286,Troegs Brewing,800 Paxton Street,,Harrisburg,Pennsylvania,17104,United States
+1287,"Tropical Beverage (International) Co., Ltd","35 Soi Prommit, Sukumvit 39",,Bangkok,,,Thailand
+1288,Trout River Brewing,58 Broad Street,,Lyndonville,Vermont,5851,United States
+1289,Tsingtao,,,Qingdao,Shandong,,China
+1290,Tucher Bru,Schillerstrae 14,,Nrnberg,Bayern,,Germany
+1291,Tui Brewery,State Highway 2,,Mangatainoka,,,New Zealand
+1292,Tunner's Guild Brewing Systems,,,Saint Paul,Minnesota,,United States
+1293,Tuppers Hop Pocket Ale,6404 Redwing Road,,Bethesda,Maryland,20817,United States
+1294,Tustin Brewing,13011 Newport Avenue #100,,Tustin,California,92780,United States
+1295,Twin Ports Brewing,,,Superior,Wisconsin,,United States
+1296,Twin Rivers Brewing,104 North Lewis Street,,Monroe,Washington,98272,United States
+1297,Twisted Pine Brewing Company,3201 Walnut Street Ste A,,Boulder,Colorado,80301,United States
+1298,Two Brothers Brewing,30 Butterfield Road,,Warrenville,Illinois,60555,United States
+1299,Two Dogs Beverage Company,272 Plandome Road,,Manhasset,New York,11030,United States
+1300,TwoRows Restaurant & Brewery - Dallas,5500 Greenville Avenue #1300,,Dallas,Texas,75206,United States
+1301,Tyranena Brewing,1025 Owen Street,,Lake Mills,Wisconsin,53551,United States
+1302,Tyskie Browary KsiÄ…Å¼Ä™ce,Mikolowska 5,,Tychy,,,Poland
+1303,Uerige Obergrige Hausbrauerei,Bergerstrae 1,,Dsseldorf,Nordrhein-Westfalen,,Germany
+1304,Uinta Brewing Compnay,1722 South Fremont Drive (2375 West),,Salt Lake City,Utah,84104,United States
+1305,Ukiah Brewing,102 South State Street,,Ukiah,California,95482,United States
+1306,Umpqua Brewing,,,Roseburg,Oregon,,United States
+1307,Unibroue,80 Des Carrires,,Chambly,Quebec,,Canada
+1308,Unicer,,,,,,Portugal
+1309,Union Barrel Works,6 N. Reamstown Road,,Reamstown,Pennsylvania,17567,United States
+1310,Union Colony Brewery,,,Greeley,Colorado,,United States
+1311,Unionsbru Haidhausen,Einsteinstrae 42,,Mnchen,Bayern,,Germany
+1312,United Breweries Limited,1/1 Vittal Mallya Road,,Bangalore,,,India
+1313,Upland Brewing,350 West Eleventh Street,,Bloomington,Indiana,47404,United States
+1314,Upper Mississippi Brewing,,,Clinton,Iowa,,United States
+1315,Upstream Brewing Company at Legacy,17070 Wright Plaza,,Omaha,Nebraska,68130,United States
+1316,Upstream Brewing Old Market,514 South Eleventh Street,,Omaha,Nebraska,68102,United States
+1317,Ushers of Trowbridge,,,Trowbridge,Wiltshire,,United Kingdom
+1318,Utah Brewers Cooperative,1763 South 300 West,,Salt Lake City,Utah,84115,United States
+1319,Utenos Alus,Pramons gatv 12,,Utena,,,Lithuania
+1320,Valley Brewing Company,1950 W. Fremont St.,,Stockton,California,95204,United States
+1321,Valley Forge Brewing,,,Wayne,Pennsylvania,,United States
+1322,Van Honsebrouch,,,Ingelmunster,,,Belgium
+1323,Vancouver Island Brewing,2330 Government Street,,Victoria,British Columbia,0,Canada
+1324,Vermont Pub & Brewery,144 College St.,,Burlington,Vermont,5401,United States
+1325,Vetterï¿½s Alt Heidelberger Brauhaus,Steingasse 9,,Heidelberg,Baden-WÃ¼rttemberg,69117,Germany
+1326,Victory Brewing,420 Acorn Lane,,Downingtown,Pennsylvania,19335,United States
+1327,Viking Brewing,234 Dallas Street West,,Dallas,Wisconsin,54733,United States
+1328,Vintage 50 Restaurant and Brew Lounge,50 Catoctin Ct. NE #100,,Leesburg,Virginia,20176,United States
+1329,Vivungs Bryggeri,,,Romakloster,,,Sweden
+1330,"Voodoo Brewing Co.,LLC",215 1/5 Arch St.,,Meadville,Pennsylvania,16335,United States
+1331,vyturio Alaus Darykla,Kuli vart 7,,Klaipda,,0,Lithuania
+1332,Wachusetts Brewing Company,175 State Road East,,Westminster,Massachusetts,1473,United States
+1333,Wagner Valley Brewing,9322 State Route 414,,Lodi,New York,14860,United States
+1334,Wainwright Brewing,3410 Sassafras Street,,Pittsburgh,Pennsylvania,,United States
+1335,Walking Man Brewery,240 SW First Street,,Stevenson,Washington,98648,United States
+1336,Walldorff Brew Pub,105 East State Street,,Hastings,Michigan,49508,United States
+1337,Warsteiner Brauerei,Domring 4-10,,Warstein,Nordrhein-Westfalen,,Germany
+1338,Watch City Brewing,256 Moody Street,,Waltham,Massachusetts,2453,United States
+1339,Water Street Brewery,1101 North Water Street,,Milwaukee,Wisconsin,53202,United States
+1340,Water Street Lake Country,3191 Golf Road,,Delafield,Wisconsin,53018,United States
+1341,Water Tower Brewing,,,Eden Prairie,Minnesota,55344,United States
+1342,Watney Brewery,,,London,London,,United Kingdom
+1343,Watson Brothers Brewhouse,,,Blue Ash,Ohio,,United States
+1344,Wdi-Bru-Huus,Florhofstrasse 13,,Wdenswil,,,Switzerland
+1345,Weeping Radish Restaurant and Brewery - Manteo,525 N Virginia Dare Road,,Manteo,North Carolina,27954,United States
+1346,Weinkeller Brewery - Berwyn,,,Berwyn,Illinois,,United States
+1347,Weissbierbrauerei Hopf,Schtzenstrae 8-10,,Miesbach,Bayern,,Germany
+1348,Wells and (&) Youngs Brewing Company Ltd.,,,,,,United Kingdom
+1349,WernesgrÃ¼ner Brauerei,Bergstrae 4,,Steinberg/Sachsen,Sachsen,,Germany
+1350,WernesgrÃ¼ner Brauerei GmbH,,,"Steinberg-WernesgrÃ¼n, Germany",,,Germany
+1351,Western Reserve Brewing,,,Cleveland,Ohio,,United States
+1352,Weyerbacher Brewing Company,905 Line Street,,Easton,Pennsylvania,18042,United States
+1353,WH Brakspear & Sons,,,Henley-on-Thames,Oxford,,United Kingdom
+1354,Wharf Rat,206 W. Pratt St.,,Baltimore,Maryland,21201,United States
+1355,Whim Ales,Hartington,,Buxton,Derby,,United Kingdom
+1356,Whitbread Beer Company,Porter Tun House,,Luton,Bedford,,United Kingdom
+1357,White Marsh Brewing Company,8149 Honeygo Blvd,,White Marsh,Maryland,21236,United States
+1358,White Oak Cider,18452 NE Ribbon Ridge Road,,Newberg,Oregon,97132,United States
+1359,White Winter Winery,7665 US Highway 2,,Iron River,Wisconsin,54847,United States
+1360,Whitstable Brewery,"Little Telpits Farm, Woodcock Lane",,Maidstone,Kent,,United Kingdom
+1361,Widmer Brothers Brewing,929 North Russell Street,,Portland,Oregon,97227,United States
+1362,Wild Duck Brewing,,,Eugene,Oregon,,United States
+1363,"Wild Goose Brewery, LLC",4607 Wedgewood Blvd.,,Fredrick,Maryland,21703,United States
+1364,Wild Onion Brewing,,,Lake Barrington,Illinois,,United States
+1365,Wild River Brewing and Pizza - Cave Junction,249 North Redwood Highway,,Cave Junction,Oregon,97523,United States
+1366,William Kuether Brewing,,,Clear Lake,Wisconsin,,United States
+1367,Williams Brothers Brewing Company,New Alloa Brewery,,Alloa,Scotland,,United Kingdom
+1368,Willoughby Brewing,4057 Erie Street,,Willoughby,Ohio,44094,United States
+1369,Wilmington Brewing,,,Wilmington,North Carolina,,United States
+1370,Wisconsin Brewing,,,Wauwatosa,Wisconsin,,United States
+1371,Wolf Pack Brewing,111 South Canyon Street,,West Yellowstone,Montana,59758,United States
+1372,Wolf Tongue Brewery,35 E. First St.,,Nederland,Colorado,,United States
+1373,Woodforde's Norfolk Ales,Woodbastwick,,Norwich,Norfolk,,United Kingdom
+1374,Wrzburger Hofbru AG,Hchberger Strae 28,,Wrzburg,Bayern,,Germany
+1375,Wychwood Brewery,The Eagle Maltings,,Witney,Oxford,,United Kingdom
+1376,Wychwood Brewery Company Ltd,,,,,,United Kingdom
+1377,Wyder's Cider,255999 Eighth Street SW,,Calgary,Alberta,0,Canada
+1378,Wye Valley Brewery,Stoke Lacy HR7 4HG,,Stoke Lacy,Hereford and Worcester,,United Kingdom
+1379,Wynkoop Brewing,1634 18th Street,,Denver,Colorado,80202,United States
+1380,Yakima Brewing and Malting / Grant's Ales,,,Yakima,Washington,,United States
+1381,Yaletown Brewing,1111 Mainland Street,,Vancouver,British Columbia,0,Canada
+1382,Yamhill Brewing,,,Portland,Oregon,,United States
+1383,Yards Brewing,2439 Amber Street,,Philadelphia,Pennsylvania,19125,United States
+1384,Marshall Wharf Brewing Company,2 Pinchy Lane,,Belfast,Maine,4915,United States
+1385,Youngs & Company Brewery,26 Osiers Road,Wandsworth,London,,SW18 1NH,England
+1386,Zea Rotisserie and Brewery,1525 St. Charles Avenue,,New Orleans,Louisiana,70130,United States
+1387,Yegua Creek Brewing - Dallas,2920 North Henderson Ave,,Dallas,Texas,75206,United States
+1388,Yuengling & Son Brewing,310 Mill Creek Avenue,,Pottsville,Pennsylvania,17901,United States
+1389,York Brewery,12 Toft Green,,York,,YO1 6JT,England
+1390,Yellowstone Valley Brewing,2123 1st Avenue North,,Billings,Montana,59101,United States
+1391,Yazoo Brewing,910 Division St,,Nashville,Tennessee,37203,United States
+1392,Yuksom Breweries,,,Malli,Sikkim,,India
+1393,Baxter Brewing,,,Lewiston,ME,,United States
+1394,Aviator Brewing Company,209 Technology Park Lane,,Fuquay Varina,North Carolina,27526,United States
+1396,Aspen Brewing Company,555 North Mill Street,,Aspen,Colorado,81611,United States
+1397,Tallgrass Brewing Co.,8845 Quail Lane,,Manhattan,KS,66502,United States
+1398,Half Acre Beer Company,4257 North Lincoln Avenue,,Chicago,IL,60618,United States
+1399,New Jersey Beer Company,4201 Tonnelle Avenue,,North Bergen,NJ,7047,United States
+1400,FINNEGANS,619 10th St. South,Suite 100,Minneapolis,Minnesota,55404,United States
+1401,Half Pints Brewing Company,550 Roseberry Street,,Winnipeg,Manitoba,,Canada
+1402,Warwick Valley Wine Co.,114 Little York Rd,,Warwick,NY,10990,United States
+1403,The Nook Brewhouse,,,,,,United Kingdom
+1404,The St. Louis Brewrey,2100 Locust Street,,St. Louis,MO,63103,United States
+1405,Baltika Breweries,"6 Verkhny per., d. 3",,St. Petersburg,,194292,Russia
+1406,Baltika Breweries,"6 Verkhny per., d. 3",,St. Petersburg,,194292,Russia
+1407,Catawba Valley Brewing Company,P.O. Box 1154,,Glen Alpine,NC,28628,United States
+1408,Walnut Brewery,1123 Walnut Street,,Boulder,Colorado,80302,United States
+1409,Columbus Brewing Company,525 Short St.,,Columbus,OH,43215,United States
+1410,Oso,1812 Post Road,,Plover,WI,54467,United States
+1411,Element Brewing Company,30 Bridge St,,Millers Falls,MA,1349,United States
+1412,Cains,Robert Cain Brewery,Stanhope St,Liverpool,Merseyside,L8 5XJ,United Kingdom
+1413,Wedge Brewery,125B Roberts St,,Asheville,NC,28801-3128,United States
+1414,Black Creek Historic Brewery,Black Creek Pioneer Village,1000 Murray Ross Parkway,Toronto,Ontario,M3J 2P3,Canada
+1415,Hertog Jan,Kruisweg 44,,Arcen,,5944 EN Arcen,Netherlands
+1416,Brewery Vivant,925 Cherry Street SE,,Grand Rapids,MI,49506,United States
+1417,Oakshire,,,Eugene,Or,,United States
+1418,Oakshire,,,Eugene,Or,,United States
+1422,Abhi Brewery,,,,,,India
+1423,Brasserie du Bouffay,54 Rue des Monceaux,,Carquefou,,44470,France
